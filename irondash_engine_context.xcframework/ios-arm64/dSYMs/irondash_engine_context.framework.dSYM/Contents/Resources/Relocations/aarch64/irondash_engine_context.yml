@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammedismailsameer/Documents/Bolddesk/bolddesk-mobile-app/syncfusion-bolddesk-mobile-app/flutter_framework_output/Release/iphoneos/Release-iphoneos/irondash_engine_context/irondash_engine_context.framework/irondash_engine_context'
+relocations:
+  - { offset: 0x5C96E, size: 0x8, addend: 0x0, symName: _irondash_engine_contextVersionString, symObjAddr: 0x0, symBinAddr: 0x4A00, symSize: 0x0 }
+  - { offset: 0x5C9A3, size: 0x8, addend: 0x0, symName: _irondash_engine_contextVersionNumber, symObjAddr: 0x38, symBinAddr: 0x4A38, symSize: 0x0 }
+  - { offset: 0x5C9E0, size: 0x8, addend: 0x0, symName: '-[_IrondashEngineContext .cxx_destruct]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8 }
+  - { offset: 0x5C9FA, size: 0x8, addend: 0x0, symName: _registry, symObjAddr: 0x4B08, symBinAddr: 0xCEE0, symSize: 0x0 }
+  - { offset: 0x5CA15, size: 0x8, addend: 0x0, symName: _engineDestroyedHandlers, symObjAddr: 0x4B10, symBinAddr: 0xCEE8, symSize: 0x0 }
+  - { offset: 0x5CA30, size: 0x8, addend: 0x0, symName: _associatedObjectKey, symObjAddr: 0x4B18, symBinAddr: 0xCEF0, symSize: 0x0 }
+  - { offset: 0x5CA4D, size: 0x8, addend: 0x0, symName: _nextHandle, symObjAddr: 0x1E28, symBinAddr: 0xCD58, symSize: 0x0 }
+  - { offset: 0x5CABD, size: 0x8, addend: 0x0, symName: '-[_IrondashEngineContext .cxx_destruct]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8 }
+  - { offset: 0x5CAF0, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin initialize]', symObjAddr: 0x8, symBinAddr: 0x4008, symSize: 0x4C }
+  - { offset: 0x5CB1F, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin registerWithRegistrar:]', symObjAddr: 0x54, symBinAddr: 0x4054, symSize: 0x194 }
+  - { offset: 0x5CC19, size: 0x8, addend: 0x0, symName: '-[IrondashEngineContextPlugin handleMethodCall:result:]', symObjAddr: 0x1E8, symBinAddr: 0x41E8, symSize: 0xBC }
+  - { offset: 0x5CC9B, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin getFlutterView:]', symObjAddr: 0x2A4, symBinAddr: 0x42A4, symSize: 0xA8 }
+  - { offset: 0x5CCEE, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin getTextureRegistry:]', symObjAddr: 0x34C, symBinAddr: 0x434C, symSize: 0x70 }
+  - { offset: 0x5CD41, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin getBinaryMessenger:]', symObjAddr: 0x3BC, symBinAddr: 0x43BC, symSize: 0x90 }
+  - { offset: 0x5CD94, size: 0x8, addend: 0x0, symName: '+[IrondashEngineContextPlugin registerEngineDestroyedCallback:]', symObjAddr: 0x44C, symBinAddr: 0x444C, symSize: 0x78 }
+  - { offset: 0x5CDD3, size: 0x8, addend: 0x0, symName: '___63+[IrondashEngineContextPlugin registerEngineDestroyedCallback:]_block_invoke', symObjAddr: 0x4C4, symBinAddr: 0x44C4, symSize: 0xC }
+  - { offset: 0x5CE33, size: 0x8, addend: 0x0, symName: '-[_IrondashAssociatedObject initWithEngineHandle:]', symObjAddr: 0x4D0, symBinAddr: 0x44D0, symSize: 0x48 }
+  - { offset: 0x5CE7A, size: 0x8, addend: 0x0, symName: '-[_IrondashAssociatedObject dealloc]', symObjAddr: 0x518, symBinAddr: 0x4518, symSize: 0x150 }
+...

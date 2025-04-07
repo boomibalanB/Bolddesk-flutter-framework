@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammedismailsameer/Documents/Bolddesk/bolddesk-mobile-app/syncfusion-bolddesk-mobile-app/flutter_framework_output/Release/iphoneos/Release-iphoneos/open_filex/open_filex.framework/open_filex'
+relocations:
+  - { offset: 0x3D1B, size: 0x8, addend: 0x0, symName: _open_filexVersionString, symObjAddr: 0x0, symBinAddr: 0x5300, symSize: 0x0 }
+  - { offset: 0x3D4F, size: 0x8, addend: 0x0, symName: _open_filexVersionNumber, symObjAddr: 0x28, symBinAddr: 0x5328, symSize: 0x0 }
+  - { offset: 0x3D8B, size: 0x8, addend: 0x0, symName: '+[OpenFilePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offset: 0x3E75, size: 0x8, addend: 0x0, symName: '+[OpenFilePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offset: 0x3F06, size: 0x8, addend: 0x0, symName: _RootViewController, symObjAddr: 0xB14, symBinAddr: 0x4B14, symSize: 0x230 }
+  - { offset: 0x3F7C, size: 0x8, addend: 0x0, symName: _TopViewControllerForViewController, symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0xB8 }
+  - { offset: 0x3FB2, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin initWithViewController:]', symObjAddr: 0x198, symBinAddr: 0x4198, symSize: 0x78 }
+  - { offset: 0x3FF5, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin handleMethodCall:result:]', symObjAddr: 0x210, symBinAddr: 0x4210, symSize: 0x574 }
+  - { offset: 0x420D, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin documentInteractionControllerDidEndPreview:]', symObjAddr: 0x784, symBinAddr: 0x4784, symSize: 0x12C }
+  - { offset: 0x4287, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin documentInteractionControllerDidDismissOpenInMenu:]', symObjAddr: 0x8B0, symBinAddr: 0x48B0, symSize: 0x12C }
+  - { offset: 0x4301, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin documentInteractionControllerViewControllerForPreview:]', symObjAddr: 0x9DC, symBinAddr: 0x49DC, symSize: 0x44 }
+  - { offset: 0x4374, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin isBlankString:]', symObjAddr: 0xA20, symBinAddr: 0x4A20, symSize: 0xAC }
+  - { offset: 0x43B3, size: 0x8, addend: 0x0, symName: '-[OpenFilePlugin .cxx_destruct]', symObjAddr: 0xACC, symBinAddr: 0x4ACC, symSize: 0x48 }
+...

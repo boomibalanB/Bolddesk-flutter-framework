@@ -1,0 +1,38 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammedismailsameer/Documents/Bolddesk/bolddesk-mobile-app/syncfusion-bolddesk-mobile-app/flutter_framework_output/Release/iphoneos/Release-iphoneos/pointer_interceptor_ios/pointer_interceptor_ios.framework/pointer_interceptor_ios'
+relocations:
+  - { offset: 0x5CDD4, size: 0x8, addend: 0x0, symName: _pointer_interceptor_iosVersionString, symObjAddr: 0x0, symBinAddr: 0x6D70, symSize: 0x0 }
+  - { offset: 0x5CE09, size: 0x8, addend: 0x0, symName: _pointer_interceptor_iosVersionNumber, symObjAddr: 0x38, symBinAddr: 0x6DA8, symSize: 0x0 }
+  - { offset: 0x5CE46, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryC6create9withFrame14viewIdentifier9argumentsSo19FlutterPlatformView_pSo6CGRectV_s5Int64VypSgtFTo', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offset: 0x5CF36, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryCMa', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x20 }
+  - { offset: 0x5CF55, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x19C, symBinAddr: 0x419C, symSize: 0x64 }
+  - { offset: 0x5CFA3, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x200, symBinAddr: 0x4200, symSize: 0xE0 }
+  - { offset: 0x5D04E, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x434, symBinAddr: 0x4434, symSize: 0x40 }
+  - { offset: 0x5D062, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x474, symBinAddr: 0x4474, symSize: 0x40 }
+  - { offset: 0x5D076, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x4B4, symBinAddr: 0x44B4, symSize: 0x48 }
+  - { offset: 0x5D08A, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0x4FC, symBinAddr: 0x44FC, symSize: 0x3C }
+  - { offset: 0x5D149, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryC6create9withFrame14viewIdentifier9argumentsSo19FlutterPlatformView_pSo6CGRectV_s5Int64VypSgtFTo', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offset: 0x5D192, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryC15createArgsCodecSo014FlutterMessageI0_So8NSObjectpyFTo', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x60 }
+  - { offset: 0x5D1D3, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryCACycfcTo', symObjAddr: 0x110, symBinAddr: 0x4110, symSize: 0x3C }
+  - { offset: 0x5D20E, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryCfD', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x30 }
+  - { offset: 0x5D23E, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios25PointerInterceptorFactoryC6create9withFrame14viewIdentifier9argumentsSo19FlutterPlatformView_pSo6CGRectV_s5Int64VypSgtFTf4ndnd_n', symObjAddr: 0x2E0, symBinAddr: 0x42E0, symSize: 0x154 }
+  - { offset: 0x5D38F, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4538, symSize: 0x84 }
+  - { offset: 0x5D45E, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginCMa', symObjAddr: 0x170, symBinAddr: 0x46A8, symSize: 0x20 }
+  - { offset: 0x5D4B6, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4538, symSize: 0x84 }
+  - { offset: 0x5D520, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginC8register4withySo07FlutterG9Registrar_p_tFZTo', symObjAddr: 0x84, symBinAddr: 0x45BC, symSize: 0x9C }
+  - { offset: 0x5D558, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginCACycfC', symObjAddr: 0x120, symBinAddr: 0x4658, symSize: 0x20 }
+  - { offset: 0x5D56C, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginCACycfc', symObjAddr: 0x140, symBinAddr: 0x4678, symSize: 0x30 }
+  - { offset: 0x5D5A4, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginCACycfcTo', symObjAddr: 0x190, symBinAddr: 0x46C8, symSize: 0x3C }
+  - { offset: 0x5D5D9, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios27PointerInterceptorIosPluginCfD', symObjAddr: 0x1CC, symBinAddr: 0x4704, symSize: 0x30 }
+  - { offset: 0x5D68D, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewC5frame5debugACSo6CGRectV_Sbtcfc', symObjAddr: 0x0, symBinAddr: 0x4734, symSize: 0x154 }
+  - { offset: 0x5D858, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewCMa', symObjAddr: 0x21C, symBinAddr: 0x4930, symSize: 0x20 }
+  - { offset: 0x5D86C, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewCfETo', symObjAddr: 0x23C, symBinAddr: 0x4950, symSize: 0x10 }
+  - { offset: 0x5D89C, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewC5frame5debugACSo6CGRectV_Sbtcfc', symObjAddr: 0x0, symBinAddr: 0x4734, symSize: 0x154 }
+  - { offset: 0x5D91D, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewC4viewSo6UIViewCyF', symObjAddr: 0x154, symBinAddr: 0x4888, symSize: 0x10 }
+  - { offset: 0x5D953, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewC4viewSo6UIViewCyFTo', symObjAddr: 0x164, symBinAddr: 0x4898, symSize: 0x10 }
+  - { offset: 0x5D96B, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewC4viewSo6UIViewCyFTo', symObjAddr: 0x164, symBinAddr: 0x4898, symSize: 0x10 }
+  - { offset: 0x5D994, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewCACycfc', symObjAddr: 0x194, symBinAddr: 0x48A8, symSize: 0x2C }
+  - { offset: 0x5D9ED, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewCACycfcTo', symObjAddr: 0x1C0, symBinAddr: 0x48D4, symSize: 0x2C }
+  - { offset: 0x5DA4C, size: 0x8, addend: 0x0, symName: '_$s23pointer_interceptor_ios22PointerInterceptorViewCfD', symObjAddr: 0x1EC, symBinAddr: 0x4900, symSize: 0x30 }
+...

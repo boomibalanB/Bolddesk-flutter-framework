@@ -1,0 +1,511 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammedismailsameer/Documents/Bolddesk/bolddesk-mobile-app/syncfusion-bolddesk-mobile-app/flutter_framework_output/Release/iphoneos/Release-iphoneos/camera_avfoundation/camera_avfoundation.framework/camera_avfoundation'
+relocations:
+  - { offset: 0x1EA33, size: 0x8, addend: 0x0, symName: _camera_avfoundationVersionString, symObjAddr: 0x0, symBinAddr: 0x17140, symSize: 0x0 }
+  - { offset: 0x1EA67, size: 0x8, addend: 0x0, symName: _camera_avfoundationVersionNumber, symObjAddr: 0x38, symBinAddr: 0x17178, symSize: 0x0 }
+  - { offset: 0x1EAA3, size: 0x8, addend: 0x0, symName: '+[CameraPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC0 }
+  - { offset: 0x1EE75, size: 0x8, addend: 0x0, symName: '+[CameraPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC0 }
+  - { offset: 0x1EEEC, size: 0x8, addend: 0x0, symName: '-[CameraPlugin initWithRegistry:messenger:]', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x90 }
+  - { offset: 0x1EF3E, size: 0x8, addend: 0x0, symName: '-[CameraPlugin initWithRegistry:messenger:globalAPI:]', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x208 }
+  - { offset: 0x1F024, size: 0x8, addend: 0x0, symName: '-[CameraPlugin detachFromEngineForRegistrar:]', symObjAddr: 0x358, symBinAddr: 0x4358, symSize: 0x38 }
+  - { offset: 0x1F05B, size: 0x8, addend: 0x0, symName: '-[CameraPlugin orientationChanged:]', symObjAddr: 0x390, symBinAddr: 0x4390, symSize: 0x110 }
+  - { offset: 0x1F0F3, size: 0x8, addend: 0x0, symName: '___35-[CameraPlugin orientationChanged:]_block_invoke', symObjAddr: 0x4A0, symBinAddr: 0x44A0, symSize: 0x74 }
+  - { offset: 0x1F13A, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x514, symBinAddr: 0x4514, symSize: 0xC }
+  - { offset: 0x1F160, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x520, symBinAddr: 0x4520, symSize: 0x8 }
+  - { offset: 0x1F17D, size: 0x8, addend: 0x0, symName: '-[CameraPlugin sendDeviceOrientation:]', symObjAddr: 0x528, symBinAddr: 0x4528, symSize: 0x94 }
+  - { offset: 0x1F1DE, size: 0x8, addend: 0x0, symName: '___38-[CameraPlugin sendDeviceOrientation:]_block_invoke', symObjAddr: 0x5BC, symBinAddr: 0x45BC, symSize: 0x68 }
+  - { offset: 0x1F286, size: 0x8, addend: 0x0, symName: '___38-[CameraPlugin sendDeviceOrientation:]_block_invoke_2', symObjAddr: 0x624, symBinAddr: 0x4624, symSize: 0x4 }
+  - { offset: 0x1F2B6, size: 0x8, addend: 0x0, symName: '-[CameraPlugin availableCamerasWithCompletion:]', symObjAddr: 0x628, symBinAddr: 0x4628, symSize: 0xA4 }
+  - { offset: 0x1F30F, size: 0x8, addend: 0x0, symName: '___47-[CameraPlugin availableCamerasWithCompletion:]_block_invoke', symObjAddr: 0x6CC, symBinAddr: 0x46CC, symSize: 0x280 }
+  - { offset: 0x1F3E2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x94C, symBinAddr: 0x494C, symSize: 0x10 }
+  - { offset: 0x1F408, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x95C, symBinAddr: 0x495C, symSize: 0x8 }
+  - { offset: 0x1F425, size: 0x8, addend: 0x0, symName: '-[CameraPlugin createCameraWithName:settings:completion:]', symObjAddr: 0x964, symBinAddr: 0x4964, symSize: 0x158 }
+  - { offset: 0x1F4AB, size: 0x8, addend: 0x0, symName: '___57-[CameraPlugin createCameraWithName:settings:completion:]_block_invoke', symObjAddr: 0xABC, symBinAddr: 0x4ABC, symSize: 0xDC }
+  - { offset: 0x1F523, size: 0x8, addend: 0x0, symName: '___57-[CameraPlugin createCameraWithName:settings:completion:]_block_invoke_2', symObjAddr: 0xB98, symBinAddr: 0x4B98, symSize: 0x14C }
+  - { offset: 0x1F5D6, size: 0x8, addend: 0x0, symName: '___57-[CameraPlugin createCameraWithName:settings:completion:]_block_invoke_3', symObjAddr: 0xCE4, symBinAddr: 0x4CE4, symSize: 0x78 }
+  - { offset: 0x1F67E, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56w, symObjAddr: 0xD5C, symBinAddr: 0x4D5C, symSize: 0x48 }
+  - { offset: 0x1F6A4, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56w, symObjAddr: 0xDA4, symBinAddr: 0x4DA4, symSize: 0x38 }
+  - { offset: 0x1F6C1, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b64w, symObjAddr: 0xDDC, symBinAddr: 0x4DDC, symSize: 0x50 }
+  - { offset: 0x1F6E7, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64w, symObjAddr: 0xE2C, symBinAddr: 0x4E2C, symSize: 0x40 }
+  - { offset: 0x1F704, size: 0x8, addend: 0x0, symName: '-[CameraPlugin initializeCamera:withImageFormat:completion:]', symObjAddr: 0xE6C, symBinAddr: 0x4E6C, symSize: 0x104 }
+  - { offset: 0x1F78A, size: 0x8, addend: 0x0, symName: '___60-[CameraPlugin initializeCamera:withImageFormat:completion:]_block_invoke', symObjAddr: 0xF70, symBinAddr: 0x4F70, symSize: 0x38 }
+  - { offset: 0x1F7EF, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40w, symObjAddr: 0xFA8, symBinAddr: 0x4FA8, symSize: 0x38 }
+  - { offset: 0x1F815, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40w, symObjAddr: 0xFE0, symBinAddr: 0x4FE0, symSize: 0x28 }
+  - { offset: 0x1F832, size: 0x8, addend: 0x0, symName: '-[CameraPlugin startImageStreamWithCompletion:]', symObjAddr: 0x1008, symBinAddr: 0x5008, symSize: 0xF0 }
+  - { offset: 0x1F89A, size: 0x8, addend: 0x0, symName: '___47-[CameraPlugin startImageStreamWithCompletion:]_block_invoke', symObjAddr: 0x10F8, symBinAddr: 0x50F8, symSize: 0xA0 }
+  - { offset: 0x1F8F2, size: 0x8, addend: 0x0, symName: '-[CameraPlugin stopImageStreamWithCompletion:]', symObjAddr: 0x1198, symBinAddr: 0x5198, symSize: 0xF0 }
+  - { offset: 0x1F95A, size: 0x8, addend: 0x0, symName: '___46-[CameraPlugin stopImageStreamWithCompletion:]_block_invoke', symObjAddr: 0x1288, symBinAddr: 0x5288, symSize: 0x60 }
+  - { offset: 0x1F9B2, size: 0x8, addend: 0x0, symName: '-[CameraPlugin receivedImageStreamDataWithCompletion:]', symObjAddr: 0x12E8, symBinAddr: 0x52E8, symSize: 0xF0 }
+  - { offset: 0x1FA1A, size: 0x8, addend: 0x0, symName: '___54-[CameraPlugin receivedImageStreamDataWithCompletion:]_block_invoke', symObjAddr: 0x13D8, symBinAddr: 0x53D8, symSize: 0x60 }
+  - { offset: 0x1FA72, size: 0x8, addend: 0x0, symName: '-[CameraPlugin takePictureWithCompletion:]', symObjAddr: 0x1438, symBinAddr: 0x5438, symSize: 0xF0 }
+  - { offset: 0x1FADA, size: 0x8, addend: 0x0, symName: '___42-[CameraPlugin takePictureWithCompletion:]_block_invoke', symObjAddr: 0x1528, symBinAddr: 0x5528, symSize: 0x54 }
+  - { offset: 0x1FB21, size: 0x8, addend: 0x0, symName: '-[CameraPlugin prepareForVideoRecordingWithCompletion:]', symObjAddr: 0x157C, symBinAddr: 0x557C, symSize: 0xF0 }
+  - { offset: 0x1FB89, size: 0x8, addend: 0x0, symName: '___55-[CameraPlugin prepareForVideoRecordingWithCompletion:]_block_invoke', symObjAddr: 0x166C, symBinAddr: 0x566C, symSize: 0x60 }
+  - { offset: 0x1FBE1, size: 0x8, addend: 0x0, symName: '-[CameraPlugin startVideoRecordingWithStreaming:completion:]', symObjAddr: 0x16CC, symBinAddr: 0x56CC, symSize: 0xF8 }
+  - { offset: 0x1FC58, size: 0x8, addend: 0x0, symName: '___60-[CameraPlugin startVideoRecordingWithStreaming:completion:]_block_invoke', symObjAddr: 0x17C4, symBinAddr: 0x57C4, symSize: 0xA0 }
+  - { offset: 0x1FCCB, size: 0x8, addend: 0x0, symName: '-[CameraPlugin stopVideoRecordingWithCompletion:]', symObjAddr: 0x1864, symBinAddr: 0x5864, symSize: 0xF0 }
+  - { offset: 0x1FD36, size: 0x8, addend: 0x0, symName: '___49-[CameraPlugin stopVideoRecordingWithCompletion:]_block_invoke', symObjAddr: 0x1954, symBinAddr: 0x5954, symSize: 0x54 }
+  - { offset: 0x1FD83, size: 0x8, addend: 0x0, symName: '-[CameraPlugin pauseVideoRecordingWithCompletion:]', symObjAddr: 0x19A8, symBinAddr: 0x59A8, symSize: 0xF0 }
+  - { offset: 0x1FDF1, size: 0x8, addend: 0x0, symName: '___50-[CameraPlugin pauseVideoRecordingWithCompletion:]_block_invoke', symObjAddr: 0x1A98, symBinAddr: 0x5A98, symSize: 0x60 }
+  - { offset: 0x1FE51, size: 0x8, addend: 0x0, symName: '-[CameraPlugin resumeVideoRecordingWithCompletion:]', symObjAddr: 0x1AF8, symBinAddr: 0x5AF8, symSize: 0xF0 }
+  - { offset: 0x1FEBF, size: 0x8, addend: 0x0, symName: '___51-[CameraPlugin resumeVideoRecordingWithCompletion:]_block_invoke', symObjAddr: 0x1BE8, symBinAddr: 0x5BE8, symSize: 0x60 }
+  - { offset: 0x1FF1F, size: 0x8, addend: 0x0, symName: '-[CameraPlugin getMinimumZoomLevel:]', symObjAddr: 0x1C48, symBinAddr: 0x5C48, symSize: 0xF0 }
+  - { offset: 0x1FF8D, size: 0x8, addend: 0x0, symName: '___36-[CameraPlugin getMinimumZoomLevel:]_block_invoke', symObjAddr: 0x1D38, symBinAddr: 0x5D38, symSize: 0x88 }
+  - { offset: 0x1FFF9, size: 0x8, addend: 0x0, symName: '-[CameraPlugin getMaximumZoomLevel:]', symObjAddr: 0x1DC0, symBinAddr: 0x5DC0, symSize: 0xF0 }
+  - { offset: 0x20067, size: 0x8, addend: 0x0, symName: '___36-[CameraPlugin getMaximumZoomLevel:]_block_invoke', symObjAddr: 0x1EB0, symBinAddr: 0x5EB0, symSize: 0x88 }
+  - { offset: 0x200D3, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setZoomLevel:completion:]', symObjAddr: 0x1F38, symBinAddr: 0x5F38, symSize: 0x100 }
+  - { offset: 0x20152, size: 0x8, addend: 0x0, symName: '___40-[CameraPlugin setZoomLevel:completion:]_block_invoke', symObjAddr: 0x2038, symBinAddr: 0x6038, symSize: 0x58 }
+  - { offset: 0x201B2, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setFlashMode:completion:]', symObjAddr: 0x2090, symBinAddr: 0x6090, symSize: 0xF8 }
+  - { offset: 0x20231, size: 0x8, addend: 0x0, symName: '___40-[CameraPlugin setFlashMode:completion:]_block_invoke', symObjAddr: 0x2188, symBinAddr: 0x6188, symSize: 0x58 }
+  - { offset: 0x20291, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setExposureMode:completion:]', symObjAddr: 0x21E0, symBinAddr: 0x61E0, symSize: 0xF8 }
+  - { offset: 0x20310, size: 0x8, addend: 0x0, symName: '___43-[CameraPlugin setExposureMode:completion:]_block_invoke', symObjAddr: 0x22D8, symBinAddr: 0x62D8, symSize: 0x64 }
+  - { offset: 0x20381, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setExposurePoint:completion:]', symObjAddr: 0x233C, symBinAddr: 0x633C, symSize: 0x11C }
+  - { offset: 0x20400, size: 0x8, addend: 0x0, symName: '___44-[CameraPlugin setExposurePoint:completion:]_block_invoke', symObjAddr: 0x2458, symBinAddr: 0x6458, symSize: 0x54 }
+  - { offset: 0x2045F, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48w, symObjAddr: 0x24AC, symBinAddr: 0x64AC, symSize: 0x40 }
+  - { offset: 0x20485, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48w, symObjAddr: 0x24EC, symBinAddr: 0x64EC, symSize: 0x30 }
+  - { offset: 0x204A3, size: 0x8, addend: 0x0, symName: '-[CameraPlugin getMinimumExposureOffset:]', symObjAddr: 0x251C, symBinAddr: 0x651C, symSize: 0xF0 }
+  - { offset: 0x20511, size: 0x8, addend: 0x0, symName: '___41-[CameraPlugin getMinimumExposureOffset:]_block_invoke', symObjAddr: 0x260C, symBinAddr: 0x660C, symSize: 0xA8 }
+  - { offset: 0x2057D, size: 0x8, addend: 0x0, symName: '-[CameraPlugin getMaximumExposureOffset:]', symObjAddr: 0x26B4, symBinAddr: 0x66B4, symSize: 0xF0 }
+  - { offset: 0x205EB, size: 0x8, addend: 0x0, symName: '___41-[CameraPlugin getMaximumExposureOffset:]_block_invoke', symObjAddr: 0x27A4, symBinAddr: 0x67A4, symSize: 0xA8 }
+  - { offset: 0x20657, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setExposureOffset:completion:]', symObjAddr: 0x284C, symBinAddr: 0x684C, symSize: 0x100 }
+  - { offset: 0x206D6, size: 0x8, addend: 0x0, symName: '___45-[CameraPlugin setExposureOffset:completion:]_block_invoke', symObjAddr: 0x294C, symBinAddr: 0x694C, symSize: 0x64 }
+  - { offset: 0x20747, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setFocusMode:completion:]', symObjAddr: 0x29B0, symBinAddr: 0x69B0, symSize: 0xF8 }
+  - { offset: 0x207C6, size: 0x8, addend: 0x0, symName: '___40-[CameraPlugin setFocusMode:completion:]_block_invoke', symObjAddr: 0x2AA8, symBinAddr: 0x6AA8, symSize: 0x64 }
+  - { offset: 0x20837, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setFocusPoint:completion:]', symObjAddr: 0x2B0C, symBinAddr: 0x6B0C, symSize: 0x11C }
+  - { offset: 0x208B6, size: 0x8, addend: 0x0, symName: '___41-[CameraPlugin setFocusPoint:completion:]_block_invoke', symObjAddr: 0x2C28, symBinAddr: 0x6C28, symSize: 0x54 }
+  - { offset: 0x20916, size: 0x8, addend: 0x0, symName: '-[CameraPlugin lockCaptureOrientation:completion:]', symObjAddr: 0x2C7C, symBinAddr: 0x6C7C, symSize: 0xF8 }
+  - { offset: 0x20995, size: 0x8, addend: 0x0, symName: '___50-[CameraPlugin lockCaptureOrientation:completion:]_block_invoke', symObjAddr: 0x2D74, symBinAddr: 0x6D74, symSize: 0x64 }
+  - { offset: 0x20A06, size: 0x8, addend: 0x0, symName: '-[CameraPlugin unlockCaptureOrientationWithCompletion:]', symObjAddr: 0x2DD8, symBinAddr: 0x6DD8, symSize: 0xF0 }
+  - { offset: 0x20A74, size: 0x8, addend: 0x0, symName: '___55-[CameraPlugin unlockCaptureOrientationWithCompletion:]_block_invoke', symObjAddr: 0x2EC8, symBinAddr: 0x6EC8, symSize: 0x60 }
+  - { offset: 0x20AD4, size: 0x8, addend: 0x0, symName: '-[CameraPlugin pausePreviewWithCompletion:]', symObjAddr: 0x2F28, symBinAddr: 0x6F28, symSize: 0xF0 }
+  - { offset: 0x20B42, size: 0x8, addend: 0x0, symName: '___43-[CameraPlugin pausePreviewWithCompletion:]_block_invoke', symObjAddr: 0x3018, symBinAddr: 0x7018, symSize: 0x60 }
+  - { offset: 0x20BA2, size: 0x8, addend: 0x0, symName: '-[CameraPlugin resumePreviewWithCompletion:]', symObjAddr: 0x3078, symBinAddr: 0x7078, symSize: 0xF0 }
+  - { offset: 0x20C10, size: 0x8, addend: 0x0, symName: '___44-[CameraPlugin resumePreviewWithCompletion:]_block_invoke', symObjAddr: 0x3168, symBinAddr: 0x7168, symSize: 0x60 }
+  - { offset: 0x20C70, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setImageFileFormat:completion:]', symObjAddr: 0x31C8, symBinAddr: 0x71C8, symSize: 0xF8 }
+  - { offset: 0x20CEF, size: 0x8, addend: 0x0, symName: '___46-[CameraPlugin setImageFileFormat:completion:]_block_invoke', symObjAddr: 0x32C0, symBinAddr: 0x72C0, symSize: 0x64 }
+  - { offset: 0x20D60, size: 0x8, addend: 0x0, symName: '-[CameraPlugin updateDescriptionWhileRecordingCameraName:completion:]', symObjAddr: 0x3324, symBinAddr: 0x7324, symSize: 0x11C }
+  - { offset: 0x20DDF, size: 0x8, addend: 0x0, symName: '___69-[CameraPlugin updateDescriptionWhileRecordingCameraName:completion:]_block_invoke', symObjAddr: 0x3440, symBinAddr: 0x7440, symSize: 0x54 }
+  - { offset: 0x20E3F, size: 0x8, addend: 0x0, symName: '-[CameraPlugin disposeCamera:completion:]', symObjAddr: 0x3494, symBinAddr: 0x7494, symSize: 0x100 }
+  - { offset: 0x20EBE, size: 0x8, addend: 0x0, symName: '___41-[CameraPlugin disposeCamera:completion:]_block_invoke', symObjAddr: 0x3594, symBinAddr: 0x7594, symSize: 0x80 }
+  - { offset: 0x20F1E, size: 0x8, addend: 0x0, symName: '-[CameraPlugin sessionQueueInitializeCamera:withImageFormat:completion:]', symObjAddr: 0x3614, symBinAddr: 0x7614, symSize: 0x1AC }
+  - { offset: 0x20FDC, size: 0x8, addend: 0x0, symName: '___72-[CameraPlugin sessionQueueInitializeCamera:withImageFormat:completion:]_block_invoke', symObjAddr: 0x37C0, symBinAddr: 0x77C0, symSize: 0xE4 }
+  - { offset: 0x21063, size: 0x8, addend: 0x0, symName: '___72-[CameraPlugin sessionQueueInitializeCamera:withImageFormat:completion:]_block_invoke_2', symObjAddr: 0x38A4, symBinAddr: 0x78A4, symSize: 0x54 }
+  - { offset: 0x210B2, size: 0x8, addend: 0x0, symName: '-[CameraPlugin createCameraOnSessionQueueWithName:settings:completion:]', symObjAddr: 0x38F8, symBinAddr: 0x78F8, symSize: 0x154 }
+  - { offset: 0x21142, size: 0x8, addend: 0x0, symName: '___71-[CameraPlugin createCameraOnSessionQueueWithName:settings:completion:]_block_invoke', symObjAddr: 0x3A4C, symBinAddr: 0x7A4C, symSize: 0x38 }
+  - { offset: 0x211F3, size: 0x8, addend: 0x0, symName: '-[CameraPlugin sessionQueueCreateCameraWithName:settings:completion:]', symObjAddr: 0x3A84, symBinAddr: 0x7A84, symSize: 0x2F8 }
+  - { offset: 0x212E9, size: 0x8, addend: 0x0, symName: '___69-[CameraPlugin sessionQueueCreateCameraWithName:settings:completion:]_block_invoke', symObjAddr: 0x3D7C, symBinAddr: 0x7D7C, symSize: 0x9C }
+  - { offset: 0x21366, size: 0x8, addend: 0x0, symName: '-[CameraPlugin registry]', symObjAddr: 0x3E18, symBinAddr: 0x7E18, symSize: 0x8 }
+  - { offset: 0x2139B, size: 0x8, addend: 0x0, symName: '-[CameraPlugin messenger]', symObjAddr: 0x3E20, symBinAddr: 0x7E20, symSize: 0x8 }
+  - { offset: 0x213D0, size: 0x8, addend: 0x0, symName: '-[CameraPlugin globalEventAPI]', symObjAddr: 0x3E28, symBinAddr: 0x7E28, symSize: 0x8 }
+  - { offset: 0x21405, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setGlobalEventAPI:]', symObjAddr: 0x3E30, symBinAddr: 0x7E30, symSize: 0xC }
+  - { offset: 0x21444, size: 0x8, addend: 0x0, symName: '-[CameraPlugin permissionManager]', symObjAddr: 0x3E3C, symBinAddr: 0x7E3C, symSize: 0x8 }
+  - { offset: 0x21479, size: 0x8, addend: 0x0, symName: '-[CameraPlugin captureSessionQueue]', symObjAddr: 0x3E44, symBinAddr: 0x7E44, symSize: 0x8 }
+  - { offset: 0x214AE, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setCaptureSessionQueue:]', symObjAddr: 0x3E4C, symBinAddr: 0x7E4C, symSize: 0xC }
+  - { offset: 0x214ED, size: 0x8, addend: 0x0, symName: '-[CameraPlugin camera]', symObjAddr: 0x3E58, symBinAddr: 0x7E58, symSize: 0x8 }
+  - { offset: 0x21522, size: 0x8, addend: 0x0, symName: '-[CameraPlugin setCamera:]', symObjAddr: 0x3E60, symBinAddr: 0x7E60, symSize: 0xC }
+  - { offset: 0x21561, size: 0x8, addend: 0x0, symName: '-[CameraPlugin .cxx_destruct]', symObjAddr: 0x3E6C, symBinAddr: 0x7E6C, symSize: 0x60 }
+  - { offset: 0x22A9C, size: 0x8, addend: 0x0, symName: _FCPGetAVCaptureFlashModeForPigeonFlashMode, symObjAddr: 0x0, symBinAddr: 0x7ECC, symSize: 0x24 }
+  - { offset: 0x22B14, size: 0x8, addend: 0x0, symName: _FCPGetAVCaptureFlashModeForPigeonFlashMode, symObjAddr: 0x0, symBinAddr: 0x7ECC, symSize: 0x24 }
+  - { offset: 0x22B3E, size: 0x8, addend: 0x0, symName: _FCPGetUIDeviceOrientationForPigeonDeviceOrientation, symObjAddr: 0x24, symBinAddr: 0x7EF0, symSize: 0x20 }
+  - { offset: 0x22B68, size: 0x8, addend: 0x0, symName: _FCPGetPigeonDeviceOrientationForOrientation, symObjAddr: 0x44, symBinAddr: 0x7F10, symSize: 0x24 }
+  - { offset: 0x22B92, size: 0x8, addend: 0x0, symName: _FCPGetPixelFormatForPigeonFormat, symObjAddr: 0x68, symBinAddr: 0x7F34, symSize: 0x1C }
+  - { offset: 0x22C4F, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler initWithCaptureSessionQueue:]', symObjAddr: 0x0, symBinAddr: 0x7F50, symSize: 0x60 }
+  - { offset: 0x22C68, size: 0x8, addend: 0x0, symName: _errorMethod, symObjAddr: 0x7D18, symBinAddr: 0x205D0, symSize: 0x0 }
+  - { offset: 0x23684, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler initWithCaptureSessionQueue:]', symObjAddr: 0x0, symBinAddr: 0x7F50, symSize: 0x60 }
+  - { offset: 0x236C7, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler onCancelWithArguments:]', symObjAddr: 0x60, symBinAddr: 0x7FB0, symSize: 0xDC }
+  - { offset: 0x23745, size: 0x8, addend: 0x0, symName: '___47-[FLTImageStreamHandler onCancelWithArguments:]_block_invoke', symObjAddr: 0x13C, symBinAddr: 0x808C, symSize: 0x30 }
+  - { offset: 0x2377D, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler onListenWithArguments:eventSink:]', symObjAddr: 0x180, symBinAddr: 0x80BC, symSize: 0x10C }
+  - { offset: 0x237F8, size: 0x8, addend: 0x0, symName: '___57-[FLTImageStreamHandler onListenWithArguments:eventSink:]_block_invoke', symObjAddr: 0x28C, symBinAddr: 0x81C8, symSize: 0x34 }
+  - { offset: 0x23840, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler captureSessionQueue]', symObjAddr: 0x320, symBinAddr: 0x81FC, symSize: 0x8 }
+  - { offset: 0x23875, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler setCaptureSessionQueue:]', symObjAddr: 0x328, symBinAddr: 0x8204, symSize: 0xC }
+  - { offset: 0x238B4, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler eventSink]', symObjAddr: 0x334, symBinAddr: 0x8210, symSize: 0xC }
+  - { offset: 0x238EB, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler setEventSink:]', symObjAddr: 0x340, symBinAddr: 0x821C, symSize: 0x8 }
+  - { offset: 0x2392A, size: 0x8, addend: 0x0, symName: '-[FLTImageStreamHandler .cxx_destruct]', symObjAddr: 0x348, symBinAddr: 0x8224, symSize: 0x30 }
+  - { offset: 0x2395A, size: 0x8, addend: 0x0, symName: '-[FLTCam initWithCameraName:mediaSettings:mediaSettingsAVWrapper:orientation:captureSessionQueue:error:]', symObjAddr: 0x378, symBinAddr: 0x8254, symSize: 0x10C }
+  - { offset: 0x239E8, size: 0x8, addend: 0x0, symName: '-[FLTCam initWithCameraName:mediaSettings:mediaSettingsAVWrapper:orientation:videoCaptureSession:audioCaptureSession:captureSessionQueue:error:]', symObjAddr: 0x484, symBinAddr: 0x8360, symSize: 0xDC }
+  - { offset: 0x23A91, size: 0x8, addend: 0x0, symName: '___144-[FLTCam initWithCameraName:mediaSettings:mediaSettingsAVWrapper:orientation:videoCaptureSession:audioCaptureSession:captureSessionQueue:error:]_block_invoke', symObjAddr: 0x560, symBinAddr: 0x843C, symSize: 0x14 }
+  - { offset: 0x23ACD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x574, symBinAddr: 0x8450, symSize: 0x8 }
+  - { offset: 0x23AF3, size: 0x8, addend: 0x0, symName: '___144-[FLTCam initWithCameraName:mediaSettings:mediaSettingsAVWrapper:orientation:videoCaptureSession:audioCaptureSession:captureSessionQueue:error:]_block_invoke.29', symObjAddr: 0x584, symBinAddr: 0x8458, symSize: 0x18 }
+  - { offset: 0x23C1D, size: 0x8, addend: 0x0, symName: '-[FLTCam initWithMediaSettings:mediaSettingsAVWrapper:orientation:videoCaptureSession:audioCaptureSession:captureSessionQueue:captureDeviceFactory:videoDimensionsForFormat:error:]', symObjAddr: 0x59C, symBinAddr: 0x8470, symSize: 0x748 }
+  - { offset: 0x23EC2, size: 0x8, addend: 0x0, symName: _bestFrameRateForFormat, symObjAddr: 0x5488, symBinAddr: 0xD2EC, symSize: 0x148 }
+  - { offset: 0x23FC8, size: 0x8, addend: 0x0, symName: '-[FLTCam createConnection:]', symObjAddr: 0xCE4, symBinAddr: 0x8BB8, symSize: 0x19C }
+  - { offset: 0x24020, size: 0x8, addend: 0x0, symName: '-[FLTCam reportInitializationState]', symObjAddr: 0xE80, symBinAddr: 0x8D54, symSize: 0x1A8 }
+  - { offset: 0x24095, size: 0x8, addend: 0x0, symName: '___35-[FLTCam reportInitializationState]_block_invoke', symObjAddr: 0x1028, symBinAddr: 0x8EFC, symSize: 0x5C }
+  - { offset: 0x240E4, size: 0x8, addend: 0x0, symName: '___35-[FLTCam reportInitializationState]_block_invoke_2', symObjAddr: 0x1084, symBinAddr: 0x8F58, symSize: 0x4 }
+  - { offset: 0x24119, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40w, symObjAddr: 0x1088, symBinAddr: 0x8F5C, symSize: 0x30 }
+  - { offset: 0x24140, size: 0x8, addend: 0x0, symName: '-[FLTCam start]', symObjAddr: 0x10B8, symBinAddr: 0x8F8C, symSize: 0x28 }
+  - { offset: 0x24172, size: 0x8, addend: 0x0, symName: '-[FLTCam stop]', symObjAddr: 0x10E0, symBinAddr: 0x8FB4, symSize: 0x28 }
+  - { offset: 0x241A4, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoFormat:]', symObjAddr: 0x1108, symBinAddr: 0x8FDC, symSize: 0xC8 }
+  - { offset: 0x241E7, size: 0x8, addend: 0x0, symName: '-[FLTCam setImageFileFormat:]', symObjAddr: 0x11D0, symBinAddr: 0x90A4, symSize: 0x8 }
+  - { offset: 0x24227, size: 0x8, addend: 0x0, symName: '-[FLTCam setDeviceOrientation:]', symObjAddr: 0x11D8, symBinAddr: 0x90AC, symSize: 0x18 }
+  - { offset: 0x24267, size: 0x8, addend: 0x0, symName: '-[FLTCam updateOrientation]', symObjAddr: 0x11F0, symBinAddr: 0x90C4, symSize: 0x58 }
+  - { offset: 0x242AA, size: 0x8, addend: 0x0, symName: '-[FLTCam updateOrientation:forCaptureOutput:]', symObjAddr: 0x1248, symBinAddr: 0x911C, symSize: 0x7C }
+  - { offset: 0x2430F, size: 0x8, addend: 0x0, symName: '-[FLTCam captureToFileWithCompletion:]', symObjAddr: 0x12C4, symBinAddr: 0x9198, symSize: 0x38C }
+  - { offset: 0x243E8, size: 0x8, addend: 0x0, symName: _FlutterErrorFromNSError, symObjAddr: 0x1650, symBinAddr: 0x9524, symSize: 0xD8 }
+  - { offset: 0x24412, size: 0x8, addend: 0x0, symName: '___38-[FLTCam captureToFileWithCompletion:]_block_invoke', symObjAddr: 0x1728, symBinAddr: 0x95FC, symSize: 0x16C }
+  - { offset: 0x2451B, size: 0x8, addend: 0x0, symName: '___38-[FLTCam captureToFileWithCompletion:]_block_invoke_2', symObjAddr: 0x1894, symBinAddr: 0x9768, symSize: 0x90 }
+  - { offset: 0x24589, size: 0x8, addend: 0x0, symName: '-[FLTCam getVideoOrientationForDeviceOrientation:]', symObjAddr: 0x1994, symBinAddr: 0x97F8, symSize: 0x10 }
+  - { offset: 0x245CA, size: 0x8, addend: 0x0, symName: '-[FLTCam getTemporaryFilePathWithExtension:subfolder:prefix:error:]', symObjAddr: 0x19A4, symBinAddr: 0x9808, symSize: 0x23C }
+  - { offset: 0x246D2, size: 0x8, addend: 0x0, symName: '-[FLTCam setCaptureSessionPreset:withError:]', symObjAddr: 0x1BE0, symBinAddr: 0x9A44, symSize: 0x2D0 }
+  - { offset: 0x24772, size: 0x8, addend: 0x0, symName: '-[FLTCam highestResolutionFormatForCaptureDevice:]', symObjAddr: 0x1EB0, symBinAddr: 0x9D14, symSize: 0x1E0 }
+  - { offset: 0x248B4, size: 0x8, addend: 0x0, symName: '-[FLTCam captureOutput:didOutputSampleBuffer:fromConnection:]', symObjAddr: 0x2090, symBinAddr: 0x9EF4, symSize: 0x9FC }
+  - { offset: 0x25053, size: 0x8, addend: 0x0, symName: '___61-[FLTCam captureOutput:didOutputSampleBuffer:fromConnection:]_block_invoke', symObjAddr: 0x2A8C, symBinAddr: 0xA8F0, symSize: 0x38 }
+  - { offset: 0x250B6, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r, symObjAddr: 0x2AC4, symBinAddr: 0xA928, symSize: 0x34 }
+  - { offset: 0x250DC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x2AF8, symBinAddr: 0xA95C, symSize: 0x2C }
+  - { offset: 0x250FA, size: 0x8, addend: 0x0, symName: '___61-[FLTCam captureOutput:didOutputSampleBuffer:fromConnection:]_block_invoke.87', symObjAddr: 0x2B24, symBinAddr: 0xA988, symSize: 0x10 }
+  - { offset: 0x25154, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x2B34, symBinAddr: 0xA998, symSize: 0x34 }
+  - { offset: 0x2517A, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x2B68, symBinAddr: 0xA9CC, symSize: 0x28 }
+  - { offset: 0x25198, size: 0x8, addend: 0x0, symName: '-[FLTCam copySampleBufferWithAdjustedTime:by:]', symObjAddr: 0x2B90, symBinAddr: 0xA9F4, symSize: 0x13C }
+  - { offset: 0x253A6, size: 0x8, addend: 0x0, symName: '-[FLTCam newVideoSample:]', symObjAddr: 0x2CCC, symBinAddr: 0xAB30, symSize: 0xF4 }
+  - { offset: 0x253E9, size: 0x8, addend: 0x0, symName: '-[FLTCam newAudioSample:]', symObjAddr: 0x2DC0, symBinAddr: 0xAC24, symSize: 0xF4 }
+  - { offset: 0x2542C, size: 0x8, addend: 0x0, symName: '-[FLTCam close]', symObjAddr: 0x2EB4, symBinAddr: 0xAD18, symSize: 0x2D4 }
+  - { offset: 0x254BA, size: 0x8, addend: 0x0, symName: '-[FLTCam dealloc]', symObjAddr: 0x3188, symBinAddr: 0xAFEC, symSize: 0x54 }
+  - { offset: 0x254F9, size: 0x8, addend: 0x0, symName: '-[FLTCam copyPixelBuffer]', symObjAddr: 0x31DC, symBinAddr: 0xB040, symSize: 0xC4 }
+  - { offset: 0x25558, size: 0x8, addend: 0x0, symName: '___25-[FLTCam copyPixelBuffer]_block_invoke', symObjAddr: 0x32A0, symBinAddr: 0xB104, symSize: 0x38 }
+  - { offset: 0x255AB, size: 0x8, addend: 0x0, symName: '-[FLTCam startVideoRecordingWithCompletion:messengerForStreaming:]', symObjAddr: 0x32D8, symBinAddr: 0xB13C, symSize: 0x18C }
+  - { offset: 0x25689, size: 0x8, addend: 0x0, symName: '-[FLTCam stopVideoRecordingWithCompletion:]', symObjAddr: 0x3464, symBinAddr: 0xB2C8, symSize: 0x180 }
+  - { offset: 0x2571C, size: 0x8, addend: 0x0, symName: '___43-[FLTCam stopVideoRecordingWithCompletion:]_block_invoke', symObjAddr: 0x35E4, symBinAddr: 0xB448, symSize: 0xA4 }
+  - { offset: 0x2579D, size: 0x8, addend: 0x0, symName: '-[FLTCam pauseVideoRecording]', symObjAddr: 0x3688, symBinAddr: 0xB4EC, symSize: 0x14 }
+  - { offset: 0x257CE, size: 0x8, addend: 0x0, symName: '-[FLTCam resumeVideoRecording]', symObjAddr: 0x369C, symBinAddr: 0xB500, symSize: 0x8 }
+  - { offset: 0x257FF, size: 0x8, addend: 0x0, symName: '-[FLTCam lockCaptureOrientation:]', symObjAddr: 0x36A4, symBinAddr: 0xB508, symSize: 0x44 }
+  - { offset: 0x25884, size: 0x8, addend: 0x0, symName: '-[FLTCam unlockCaptureOrientation]', symObjAddr: 0x36E8, symBinAddr: 0xB54C, symSize: 0x8 }
+  - { offset: 0x258B5, size: 0x8, addend: 0x0, symName: '-[FLTCam setFlashMode:withCompletion:]', symObjAddr: 0x36F0, symBinAddr: 0xB554, symSize: 0x1C0 }
+  - { offset: 0x25963, size: 0x8, addend: 0x0, symName: '-[FLTCam setExposureMode:]', symObjAddr: 0x38B0, symBinAddr: 0xB714, symSize: 0x8 }
+  - { offset: 0x259A3, size: 0x8, addend: 0x0, symName: '-[FLTCam applyExposureMode]', symObjAddr: 0x38B8, symBinAddr: 0xB71C, symSize: 0x6C }
+  - { offset: 0x259D5, size: 0x8, addend: 0x0, symName: '-[FLTCam setFocusMode:]', symObjAddr: 0x3924, symBinAddr: 0xB788, symSize: 0x8 }
+  - { offset: 0x25A15, size: 0x8, addend: 0x0, symName: '-[FLTCam applyFocusMode]', symObjAddr: 0x392C, symBinAddr: 0xB790, symSize: 0xC }
+  - { offset: 0x25A46, size: 0x8, addend: 0x0, symName: '-[FLTCam applyFocusMode:onDevice:]', symObjAddr: 0x3938, symBinAddr: 0xB79C, symSize: 0x90 }
+  - { offset: 0x25A96, size: 0x8, addend: 0x0, symName: '-[FLTCam pausePreview]', symObjAddr: 0x39C8, symBinAddr: 0xB82C, symSize: 0xC }
+  - { offset: 0x25AC7, size: 0x8, addend: 0x0, symName: '-[FLTCam resumePreview]', symObjAddr: 0x39D4, symBinAddr: 0xB838, symSize: 0x8 }
+  - { offset: 0x25AF8, size: 0x8, addend: 0x0, symName: '-[FLTCam setDescriptionWhileRecording:withCompletion:]', symObjAddr: 0x39DC, symBinAddr: 0xB840, symSize: 0x2F0 }
+  - { offset: 0x25C2A, size: 0x8, addend: 0x0, symName: '-[FLTCam CGPointForPoint:withOrientation:]', symObjAddr: 0x3CCC, symBinAddr: 0xBB30, symSize: 0xC4 }
+  - { offset: 0x25CA0, size: 0x8, addend: 0x0, symName: '-[FLTCam setExposurePoint:withCompletion:]', symObjAddr: 0x3D90, symBinAddr: 0xBBF4, symSize: 0x154 }
+  - { offset: 0x25D34, size: 0x8, addend: 0x0, symName: '-[FLTCam setFocusPoint:withCompletion:]', symObjAddr: 0x3EE4, symBinAddr: 0xBD48, symSize: 0x154 }
+  - { offset: 0x25DC8, size: 0x8, addend: 0x0, symName: '-[FLTCam setExposureOffset:]', symObjAddr: 0x4038, symBinAddr: 0xBE9C, symSize: 0x48 }
+  - { offset: 0x25E0B, size: 0x8, addend: 0x0, symName: '-[FLTCam startImageStreamWithMessenger:]', symObjAddr: 0x4080, symBinAddr: 0xBEE4, symSize: 0x68 }
+  - { offset: 0x25E4E, size: 0x8, addend: 0x0, symName: '-[FLTCam startImageStreamWithMessenger:imageStreamHandler:]', symObjAddr: 0x40E8, symBinAddr: 0xBF4C, symSize: 0x160 }
+  - { offset: 0x25EDB, size: 0x8, addend: 0x0, symName: '___59-[FLTCam startImageStreamWithMessenger:imageStreamHandler:]_block_invoke', symObjAddr: 0x4248, symBinAddr: 0xC0AC, symSize: 0xB4 }
+  - { offset: 0x25F52, size: 0x8, addend: 0x0, symName: '___59-[FLTCam startImageStreamWithMessenger:imageStreamHandler:]_block_invoke_2', symObjAddr: 0x42FC, symBinAddr: 0xC160, symSize: 0x44 }
+  - { offset: 0x25FAF, size: 0x8, addend: 0x0, symName: '-[FLTCam stopImageStream]', symObjAddr: 0x4340, symBinAddr: 0xC1A4, symSize: 0x28 }
+  - { offset: 0x25FE1, size: 0x8, addend: 0x0, symName: '-[FLTCam receivedImageStreamData]', symObjAddr: 0x4368, symBinAddr: 0xC1CC, symSize: 0x28 }
+  - { offset: 0x26013, size: 0x8, addend: 0x0, symName: '-[FLTCam setZoomLevel:withCompletion:]', symObjAddr: 0x4390, symBinAddr: 0xC1F4, symSize: 0x170 }
+  - { offset: 0x260F2, size: 0x8, addend: 0x0, symName: '-[FLTCam minimumAvailableZoomFactor]', symObjAddr: 0x4500, symBinAddr: 0xC364, symSize: 0x8 }
+  - { offset: 0x26128, size: 0x8, addend: 0x0, symName: '-[FLTCam maximumAvailableZoomFactor]', symObjAddr: 0x4508, symBinAddr: 0xC36C, symSize: 0x8 }
+  - { offset: 0x2615E, size: 0x8, addend: 0x0, symName: '-[FLTCam setupWriterForPath:]', symObjAddr: 0x4510, symBinAddr: 0xC374, symSize: 0x5C4 }
+  - { offset: 0x26226, size: 0x8, addend: 0x0, symName: '-[FLTCam setUpCaptureSessionForAudioIfNeeded]', symObjAddr: 0x4AD4, symBinAddr: 0xC938, symSize: 0x184 }
+  - { offset: 0x262B2, size: 0x8, addend: 0x0, symName: '___45-[FLTCam setUpCaptureSessionForAudioIfNeeded]_block_invoke', symObjAddr: 0x4C58, symBinAddr: 0xCABC, symSize: 0x23C }
+  - { offset: 0x26399, size: 0x8, addend: 0x0, symName: '-[FLTCam reportErrorMessage:]', symObjAddr: 0x4E94, symBinAddr: 0xCCF8, symSize: 0xD0 }
+  - { offset: 0x26400, size: 0x8, addend: 0x0, symName: '___29-[FLTCam reportErrorMessage:]_block_invoke', symObjAddr: 0x4F64, symBinAddr: 0xCDC8, symSize: 0x5C }
+  - { offset: 0x2644F, size: 0x8, addend: 0x0, symName: '___29-[FLTCam reportErrorMessage:]_block_invoke_2', symObjAddr: 0x4FC0, symBinAddr: 0xCE24, symSize: 0x4 }
+  - { offset: 0x26485, size: 0x8, addend: 0x0, symName: '-[FLTCam captureDevice]', symObjAddr: 0x4FC4, symBinAddr: 0xCE28, symSize: 0x8 }
+  - { offset: 0x264BA, size: 0x8, addend: 0x0, symName: '-[FLTCam previewSize]', symObjAddr: 0x4FCC, symBinAddr: 0xCE30, symSize: 0x8 }
+  - { offset: 0x264EE, size: 0x8, addend: 0x0, symName: '-[FLTCam isPreviewPaused]', symObjAddr: 0x4FD4, symBinAddr: 0xCE38, symSize: 0x8 }
+  - { offset: 0x26523, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsPreviewPaused:]', symObjAddr: 0x4FDC, symBinAddr: 0xCE40, symSize: 0x8 }
+  - { offset: 0x2655D, size: 0x8, addend: 0x0, symName: '-[FLTCam onFrameAvailable]', symObjAddr: 0x4FE4, symBinAddr: 0xCE48, symSize: 0x8 }
+  - { offset: 0x26592, size: 0x8, addend: 0x0, symName: '-[FLTCam setOnFrameAvailable:]', symObjAddr: 0x4FEC, symBinAddr: 0xCE50, symSize: 0x8 }
+  - { offset: 0x265D1, size: 0x8, addend: 0x0, symName: '-[FLTCam dartAPI]', symObjAddr: 0x4FF4, symBinAddr: 0xCE58, symSize: 0x8 }
+  - { offset: 0x26606, size: 0x8, addend: 0x0, symName: '-[FLTCam setDartAPI:]', symObjAddr: 0x4FFC, symBinAddr: 0xCE60, symSize: 0xC }
+  - { offset: 0x26645, size: 0x8, addend: 0x0, symName: '-[FLTCam exposureMode]', symObjAddr: 0x5008, symBinAddr: 0xCE6C, symSize: 0x8 }
+  - { offset: 0x2667A, size: 0x8, addend: 0x0, symName: '-[FLTCam focusMode]', symObjAddr: 0x5010, symBinAddr: 0xCE74, symSize: 0x8 }
+  - { offset: 0x266AF, size: 0x8, addend: 0x0, symName: '-[FLTCam flashMode]', symObjAddr: 0x5018, symBinAddr: 0xCE7C, symSize: 0x8 }
+  - { offset: 0x266E4, size: 0x8, addend: 0x0, symName: '-[FLTCam setFlashMode:]', symObjAddr: 0x5020, symBinAddr: 0xCE84, symSize: 0x8 }
+  - { offset: 0x26720, size: 0x8, addend: 0x0, symName: '-[FLTCam videoFormat]', symObjAddr: 0x5028, symBinAddr: 0xCE8C, symSize: 0x8 }
+  - { offset: 0x26755, size: 0x8, addend: 0x0, symName: '-[FLTCam fileFormat]', symObjAddr: 0x5030, symBinAddr: 0xCE94, symSize: 0x8 }
+  - { offset: 0x2678A, size: 0x8, addend: 0x0, symName: '-[FLTCam setFileFormat:]', symObjAddr: 0x5038, symBinAddr: 0xCE9C, symSize: 0x8 }
+  - { offset: 0x267C6, size: 0x8, addend: 0x0, symName: '-[FLTCam setMinimumAvailableZoomFactor:]', symObjAddr: 0x5040, symBinAddr: 0xCEA4, symSize: 0x8 }
+  - { offset: 0x26803, size: 0x8, addend: 0x0, symName: '-[FLTCam setMaximumAvailableZoomFactor:]', symObjAddr: 0x5048, symBinAddr: 0xCEAC, symSize: 0x8 }
+  - { offset: 0x26840, size: 0x8, addend: 0x0, symName: '-[FLTCam textureId]', symObjAddr: 0x5050, symBinAddr: 0xCEB4, symSize: 0x8 }
+  - { offset: 0x26875, size: 0x8, addend: 0x0, symName: '-[FLTCam mediaSettings]', symObjAddr: 0x5058, symBinAddr: 0xCEBC, symSize: 0x8 }
+  - { offset: 0x268AA, size: 0x8, addend: 0x0, symName: '-[FLTCam mediaSettingsAVWrapper]', symObjAddr: 0x5060, symBinAddr: 0xCEC4, symSize: 0x8 }
+  - { offset: 0x268DF, size: 0x8, addend: 0x0, symName: '-[FLTCam imageStreamHandler]', symObjAddr: 0x5068, symBinAddr: 0xCECC, symSize: 0x8 }
+  - { offset: 0x26914, size: 0x8, addend: 0x0, symName: '-[FLTCam setImageStreamHandler:]', symObjAddr: 0x5070, symBinAddr: 0xCED4, symSize: 0xC }
+  - { offset: 0x26953, size: 0x8, addend: 0x0, symName: '-[FLTCam videoCaptureSession]', symObjAddr: 0x507C, symBinAddr: 0xCEE0, symSize: 0x8 }
+  - { offset: 0x26988, size: 0x8, addend: 0x0, symName: '-[FLTCam audioCaptureSession]', symObjAddr: 0x5084, symBinAddr: 0xCEE8, symSize: 0x8 }
+  - { offset: 0x269BD, size: 0x8, addend: 0x0, symName: '-[FLTCam captureVideoInput]', symObjAddr: 0x508C, symBinAddr: 0xCEF0, symSize: 0x8 }
+  - { offset: 0x269F2, size: 0x8, addend: 0x0, symName: '-[FLTCam latestPixelBuffer]', symObjAddr: 0x5094, symBinAddr: 0xCEF8, symSize: 0x8 }
+  - { offset: 0x26A27, size: 0x8, addend: 0x0, symName: '-[FLTCam setLatestPixelBuffer:]', symObjAddr: 0x509C, symBinAddr: 0xCF00, symSize: 0x8 }
+  - { offset: 0x26A63, size: 0x8, addend: 0x0, symName: '-[FLTCam captureSize]', symObjAddr: 0x50A4, symBinAddr: 0xCF08, symSize: 0x8 }
+  - { offset: 0x26A97, size: 0x8, addend: 0x0, symName: '-[FLTCam videoWriter]', symObjAddr: 0x50AC, symBinAddr: 0xCF10, symSize: 0x8 }
+  - { offset: 0x26ACC, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoWriter:]', symObjAddr: 0x50B4, symBinAddr: 0xCF18, symSize: 0xC }
+  - { offset: 0x26B0B, size: 0x8, addend: 0x0, symName: '-[FLTCam videoWriterInput]', symObjAddr: 0x50C0, symBinAddr: 0xCF24, symSize: 0x8 }
+  - { offset: 0x26B40, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoWriterInput:]', symObjAddr: 0x50C8, symBinAddr: 0xCF2C, symSize: 0xC }
+  - { offset: 0x26B7F, size: 0x8, addend: 0x0, symName: '-[FLTCam audioWriterInput]', symObjAddr: 0x50D4, symBinAddr: 0xCF38, symSize: 0x8 }
+  - { offset: 0x26BB4, size: 0x8, addend: 0x0, symName: '-[FLTCam setAudioWriterInput:]', symObjAddr: 0x50DC, symBinAddr: 0xCF40, symSize: 0xC }
+  - { offset: 0x26BF3, size: 0x8, addend: 0x0, symName: '-[FLTCam assetWriterPixelBufferAdaptor]', symObjAddr: 0x50E8, symBinAddr: 0xCF4C, symSize: 0x8 }
+  - { offset: 0x26C28, size: 0x8, addend: 0x0, symName: '-[FLTCam setAssetWriterPixelBufferAdaptor:]', symObjAddr: 0x50F0, symBinAddr: 0xCF54, symSize: 0xC }
+  - { offset: 0x26C67, size: 0x8, addend: 0x0, symName: '-[FLTCam videoOutput]', symObjAddr: 0x50FC, symBinAddr: 0xCF60, symSize: 0x8 }
+  - { offset: 0x26C9C, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoOutput:]', symObjAddr: 0x5104, symBinAddr: 0xCF68, symSize: 0xC }
+  - { offset: 0x26CDB, size: 0x8, addend: 0x0, symName: '-[FLTCam audioOutput]', symObjAddr: 0x5110, symBinAddr: 0xCF74, symSize: 0x8 }
+  - { offset: 0x26D10, size: 0x8, addend: 0x0, symName: '-[FLTCam setAudioOutput:]', symObjAddr: 0x5118, symBinAddr: 0xCF7C, symSize: 0xC }
+  - { offset: 0x26D4F, size: 0x8, addend: 0x0, symName: '-[FLTCam videoRecordingPath]', symObjAddr: 0x5124, symBinAddr: 0xCF88, symSize: 0x8 }
+  - { offset: 0x26D84, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoRecordingPath:]', symObjAddr: 0x512C, symBinAddr: 0xCF90, symSize: 0xC }
+  - { offset: 0x26DC3, size: 0x8, addend: 0x0, symName: '-[FLTCam isFirstVideoSample]', symObjAddr: 0x5138, symBinAddr: 0xCF9C, symSize: 0x8 }
+  - { offset: 0x26DF8, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsFirstVideoSample:]', symObjAddr: 0x5140, symBinAddr: 0xCFA4, symSize: 0x8 }
+  - { offset: 0x26E32, size: 0x8, addend: 0x0, symName: '-[FLTCam isRecording]', symObjAddr: 0x5148, symBinAddr: 0xCFAC, symSize: 0x8 }
+  - { offset: 0x26E67, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsRecording:]', symObjAddr: 0x5150, symBinAddr: 0xCFB4, symSize: 0x8 }
+  - { offset: 0x26EA1, size: 0x8, addend: 0x0, symName: '-[FLTCam isRecordingPaused]', symObjAddr: 0x5158, symBinAddr: 0xCFBC, symSize: 0x8 }
+  - { offset: 0x26ED6, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsRecordingPaused:]', symObjAddr: 0x5160, symBinAddr: 0xCFC4, symSize: 0x8 }
+  - { offset: 0x26F10, size: 0x8, addend: 0x0, symName: '-[FLTCam videoIsDisconnected]', symObjAddr: 0x5168, symBinAddr: 0xCFCC, symSize: 0x8 }
+  - { offset: 0x26F45, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoIsDisconnected:]', symObjAddr: 0x5170, symBinAddr: 0xCFD4, symSize: 0x8 }
+  - { offset: 0x26F7F, size: 0x8, addend: 0x0, symName: '-[FLTCam audioIsDisconnected]', symObjAddr: 0x5178, symBinAddr: 0xCFDC, symSize: 0x8 }
+  - { offset: 0x26FB4, size: 0x8, addend: 0x0, symName: '-[FLTCam setAudioIsDisconnected:]', symObjAddr: 0x5180, symBinAddr: 0xCFE4, symSize: 0x8 }
+  - { offset: 0x26FEE, size: 0x8, addend: 0x0, symName: '-[FLTCam isAudioSetup]', symObjAddr: 0x5188, symBinAddr: 0xCFEC, symSize: 0x8 }
+  - { offset: 0x27023, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsAudioSetup:]', symObjAddr: 0x5190, symBinAddr: 0xCFF4, symSize: 0x8 }
+  - { offset: 0x2705D, size: 0x8, addend: 0x0, symName: '-[FLTCam streamingPendingFramesCount]', symObjAddr: 0x5198, symBinAddr: 0xCFFC, symSize: 0x8 }
+  - { offset: 0x27092, size: 0x8, addend: 0x0, symName: '-[FLTCam setStreamingPendingFramesCount:]', symObjAddr: 0x51A0, symBinAddr: 0xD004, symSize: 0x8 }
+  - { offset: 0x270CE, size: 0x8, addend: 0x0, symName: '-[FLTCam maxStreamingPendingFramesCount]', symObjAddr: 0x51A8, symBinAddr: 0xD00C, symSize: 0x8 }
+  - { offset: 0x27103, size: 0x8, addend: 0x0, symName: '-[FLTCam setMaxStreamingPendingFramesCount:]', symObjAddr: 0x51B0, symBinAddr: 0xD014, symSize: 0x8 }
+  - { offset: 0x2713F, size: 0x8, addend: 0x0, symName: '-[FLTCam lockedCaptureOrientation]', symObjAddr: 0x51B8, symBinAddr: 0xD01C, symSize: 0x8 }
+  - { offset: 0x27174, size: 0x8, addend: 0x0, symName: '-[FLTCam setLockedCaptureOrientation:]', symObjAddr: 0x51C0, symBinAddr: 0xD024, symSize: 0x8 }
+  - { offset: 0x271B0, size: 0x8, addend: 0x0, symName: '-[FLTCam lastVideoSampleTime]', symObjAddr: 0x51C8, symBinAddr: 0xD02C, symSize: 0x14 }
+  - { offset: 0x271E4, size: 0x8, addend: 0x0, symName: '-[FLTCam setLastVideoSampleTime:]', symObjAddr: 0x51DC, symBinAddr: 0xD040, symSize: 0x14 }
+  - { offset: 0x27221, size: 0x8, addend: 0x0, symName: '-[FLTCam lastAudioSampleTime]', symObjAddr: 0x51F0, symBinAddr: 0xD054, symSize: 0x18 }
+  - { offset: 0x27255, size: 0x8, addend: 0x0, symName: '-[FLTCam setLastAudioSampleTime:]', symObjAddr: 0x5208, symBinAddr: 0xD06C, symSize: 0x18 }
+  - { offset: 0x27292, size: 0x8, addend: 0x0, symName: '-[FLTCam videoTimeOffset]', symObjAddr: 0x5220, symBinAddr: 0xD084, symSize: 0x14 }
+  - { offset: 0x272C6, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoTimeOffset:]', symObjAddr: 0x5234, symBinAddr: 0xD098, symSize: 0x14 }
+  - { offset: 0x27303, size: 0x8, addend: 0x0, symName: '-[FLTCam audioTimeOffset]', symObjAddr: 0x5248, symBinAddr: 0xD0AC, symSize: 0x18 }
+  - { offset: 0x27337, size: 0x8, addend: 0x0, symName: '-[FLTCam setAudioTimeOffset:]', symObjAddr: 0x5260, symBinAddr: 0xD0C4, symSize: 0x18 }
+  - { offset: 0x27374, size: 0x8, addend: 0x0, symName: '-[FLTCam motionManager]', symObjAddr: 0x5278, symBinAddr: 0xD0DC, symSize: 0x8 }
+  - { offset: 0x273A9, size: 0x8, addend: 0x0, symName: '-[FLTCam setMotionManager:]', symObjAddr: 0x5280, symBinAddr: 0xD0E4, symSize: 0xC }
+  - { offset: 0x273E8, size: 0x8, addend: 0x0, symName: '-[FLTCam videoAdaptor]', symObjAddr: 0x528C, symBinAddr: 0xD0F0, symSize: 0xC }
+  - { offset: 0x2741F, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoAdaptor:]', symObjAddr: 0x5298, symBinAddr: 0xD0FC, symSize: 0x8 }
+  - { offset: 0x2745E, size: 0x8, addend: 0x0, symName: '-[FLTCam captureSessionQueue]', symObjAddr: 0x52A0, symBinAddr: 0xD104, symSize: 0x8 }
+  - { offset: 0x27493, size: 0x8, addend: 0x0, symName: '-[FLTCam setCaptureSessionQueue:]', symObjAddr: 0x52A8, symBinAddr: 0xD10C, symSize: 0xC }
+  - { offset: 0x274D2, size: 0x8, addend: 0x0, symName: '-[FLTCam pixelBufferSynchronizationQueue]', symObjAddr: 0x52B4, symBinAddr: 0xD118, symSize: 0x8 }
+  - { offset: 0x27507, size: 0x8, addend: 0x0, symName: '-[FLTCam setPixelBufferSynchronizationQueue:]', symObjAddr: 0x52BC, symBinAddr: 0xD120, symSize: 0xC }
+  - { offset: 0x27546, size: 0x8, addend: 0x0, symName: '-[FLTCam photoIOQueue]', symObjAddr: 0x52C8, symBinAddr: 0xD12C, symSize: 0x8 }
+  - { offset: 0x2757B, size: 0x8, addend: 0x0, symName: '-[FLTCam setPhotoIOQueue:]', symObjAddr: 0x52D0, symBinAddr: 0xD134, symSize: 0xC }
+  - { offset: 0x275BA, size: 0x8, addend: 0x0, symName: '-[FLTCam deviceOrientation]', symObjAddr: 0x52DC, symBinAddr: 0xD140, symSize: 0x8 }
+  - { offset: 0x275EF, size: 0x8, addend: 0x0, symName: '-[FLTCam videoDimensionsForFormat]', symObjAddr: 0x52E4, symBinAddr: 0xD148, symSize: 0x8 }
+  - { offset: 0x27624, size: 0x8, addend: 0x0, symName: '-[FLTCam setVideoDimensionsForFormat:]', symObjAddr: 0x52EC, symBinAddr: 0xD150, symSize: 0x8 }
+  - { offset: 0x27663, size: 0x8, addend: 0x0, symName: '-[FLTCam captureDeviceFactory]', symObjAddr: 0x52F4, symBinAddr: 0xD158, symSize: 0x8 }
+  - { offset: 0x27698, size: 0x8, addend: 0x0, symName: '-[FLTCam setCaptureDeviceFactory:]', symObjAddr: 0x52FC, symBinAddr: 0xD160, symSize: 0x8 }
+  - { offset: 0x276D7, size: 0x8, addend: 0x0, symName: '-[FLTCam captureVideoOutput]', symObjAddr: 0x5304, symBinAddr: 0xD168, symSize: 0x8 }
+  - { offset: 0x2770C, size: 0x8, addend: 0x0, symName: '-[FLTCam capturePhotoOutput]', symObjAddr: 0x530C, symBinAddr: 0xD170, symSize: 0x8 }
+  - { offset: 0x27741, size: 0x8, addend: 0x0, symName: '-[FLTCam setCapturePhotoOutput:]', symObjAddr: 0x5314, symBinAddr: 0xD178, symSize: 0xC }
+  - { offset: 0x27780, size: 0x8, addend: 0x0, symName: '-[FLTCam isStreamingImages]', symObjAddr: 0x5320, symBinAddr: 0xD184, symSize: 0x8 }
+  - { offset: 0x277B5, size: 0x8, addend: 0x0, symName: '-[FLTCam setIsStreamingImages:]', symObjAddr: 0x5328, symBinAddr: 0xD18C, symSize: 0x8 }
+  - { offset: 0x277EF, size: 0x8, addend: 0x0, symName: '-[FLTCam inProgressSavePhotoDelegates]', symObjAddr: 0x5330, symBinAddr: 0xD194, symSize: 0x8 }
+  - { offset: 0x27824, size: 0x8, addend: 0x0, symName: '-[FLTCam .cxx_destruct]', symObjAddr: 0x5338, symBinAddr: 0xD19C, symSize: 0x150 }
+  - { offset: 0x2826B, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager initWithPermissionService:]', symObjAddr: 0x0, symBinAddr: 0xD434, symSize: 0x90 }
+  - { offset: 0x282CB, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager initWithPermissionService:]', symObjAddr: 0x0, symBinAddr: 0xD434, symSize: 0x90 }
+  - { offset: 0x2830F, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager requestAudioPermissionWithCompletionHandler:]', symObjAddr: 0x90, symBinAddr: 0xD4C4, symSize: 0xC }
+  - { offset: 0x2834E, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager requestCameraPermissionWithCompletionHandler:]', symObjAddr: 0x9C, symBinAddr: 0xD4D0, symSize: 0xC }
+  - { offset: 0x2838C, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager requestPermissionForAudio:handler:]', symObjAddr: 0xA8, symBinAddr: 0xD4DC, symSize: 0x198 }
+  - { offset: 0x28442, size: 0x8, addend: 0x0, symName: '___64-[FLTCameraPermissionManager requestPermissionForAudio:handler:]_block_invoke', symObjAddr: 0x240, symBinAddr: 0xD674, symSize: 0x94 }
+  - { offset: 0x284D9, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager permissionService]', symObjAddr: 0x2EC, symBinAddr: 0xD708, symSize: 0x8 }
+  - { offset: 0x2850E, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager setPermissionService:]', symObjAddr: 0x2F4, symBinAddr: 0xD710, symSize: 0xC }
+  - { offset: 0x2854D, size: 0x8, addend: 0x0, symName: '-[FLTCameraPermissionManager .cxx_destruct]', symObjAddr: 0x300, symBinAddr: 0xD71C, symSize: 0xC }
+  - { offset: 0x28730, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper lockDevice:error:]', symObjAddr: 0x0, symBinAddr: 0xD728, symSize: 0xC }
+  - { offset: 0x2874E, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper lockDevice:error:]', symObjAddr: 0x0, symBinAddr: 0xD728, symSize: 0xC }
+  - { offset: 0x2879D, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper unlockDevice:]', symObjAddr: 0xC, symBinAddr: 0xD734, symSize: 0x8 }
+  - { offset: 0x287D9, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper beginConfigurationForSession:]', symObjAddr: 0x14, symBinAddr: 0xD73C, symSize: 0x8 }
+  - { offset: 0x28815, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper commitConfigurationForSession:]', symObjAddr: 0x1C, symBinAddr: 0xD744, symSize: 0x8 }
+  - { offset: 0x28850, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper setMinFrameDuration:onDevice:]', symObjAddr: 0x24, symBinAddr: 0xD74C, symSize: 0x34 }
+  - { offset: 0x2889A, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper setMaxFrameDuration:onDevice:]', symObjAddr: 0x58, symBinAddr: 0xD780, symSize: 0x34 }
+  - { offset: 0x288E5, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper assetWriterAudioInputWithOutputSettings:]', symObjAddr: 0x8C, symBinAddr: 0xD7B4, symSize: 0x1C }
+  - { offset: 0x28925, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper assetWriterVideoInputWithOutputSettings:]', symObjAddr: 0xA8, symBinAddr: 0xD7D0, symSize: 0x1C }
+  - { offset: 0x28965, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper addInput:toAssetWriter:]', symObjAddr: 0xC4, symBinAddr: 0xD7EC, symSize: 0x8 }
+  - { offset: 0x289AF, size: 0x8, addend: 0x0, symName: '-[FLTCamMediaSettingsAVWrapper recommendedVideoSettingsForAssetWriterWithFileType:forOutput:]', symObjAddr: 0xCC, symBinAddr: 0xD7F4, symSize: 0x8 }
+  - { offset: 0x28A84, size: 0x8, addend: 0x0, symName: '-[FLTDefaultPermissionService authorizationStatusForMediaType:]', symObjAddr: 0x0, symBinAddr: 0xD7FC, symSize: 0xC }
+  - { offset: 0x28AA2, size: 0x8, addend: 0x0, symName: '-[FLTDefaultPermissionService authorizationStatusForMediaType:]', symObjAddr: 0x0, symBinAddr: 0xD7FC, symSize: 0xC }
+  - { offset: 0x28AE1, size: 0x8, addend: 0x0, symName: '-[FLTDefaultPermissionService requestAccessForMediaType:completionHandler:]', symObjAddr: 0xC, symBinAddr: 0xD808, symSize: 0xC }
+  - { offset: 0x28C06, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate initWithPath:ioQueue:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0xD814, symSize: 0xF0 }
+  - { offset: 0x28D1B, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate initWithPath:ioQueue:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0xD814, symSize: 0xF0 }
+  - { offset: 0x28D7C, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate handlePhotoCaptureResultWithError:photoDataProvider:]', symObjAddr: 0xF0, symBinAddr: 0xD904, symSize: 0x140 }
+  - { offset: 0x28E22, size: 0x8, addend: 0x0, symName: '___76-[FLTSavePhotoDelegate handlePhotoCaptureResultWithError:photoDataProvider:]_block_invoke', symObjAddr: 0x230, symBinAddr: 0xDA44, symSize: 0x124 }
+  - { offset: 0x28EFD, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate captureOutput:didFinishProcessingPhoto:error:]', symObjAddr: 0x3C4, symBinAddr: 0xDB68, symSize: 0x90 }
+  - { offset: 0x28F57, size: 0x8, addend: 0x0, symName: '___69-[FLTSavePhotoDelegate captureOutput:didFinishProcessingPhoto:error:]_block_invoke', symObjAddr: 0x454, symBinAddr: 0xDBF8, symSize: 0x8 }
+  - { offset: 0x28F94, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate filePath]', symObjAddr: 0x46C, symBinAddr: 0xDC00, symSize: 0x4 }
+  - { offset: 0x28FC8, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate path]', symObjAddr: 0x470, symBinAddr: 0xDC04, symSize: 0x8 }
+  - { offset: 0x28FFD, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate ioQueue]', symObjAddr: 0x478, symBinAddr: 0xDC0C, symSize: 0x8 }
+  - { offset: 0x29032, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate completionHandler]', symObjAddr: 0x480, symBinAddr: 0xDC14, symSize: 0x8 }
+  - { offset: 0x29067, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate setFilePath:]', symObjAddr: 0x488, symBinAddr: 0xDC1C, symSize: 0xC }
+  - { offset: 0x290A6, size: 0x8, addend: 0x0, symName: '-[FLTSavePhotoDelegate .cxx_destruct]', symObjAddr: 0x494, symBinAddr: 0xDC28, symSize: 0x48 }
+  - { offset: 0x292FC, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel initWithEventChannel:]', symObjAddr: 0x0, symBinAddr: 0xDC70, symSize: 0x78 }
+  - { offset: 0x29338, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel initWithEventChannel:]', symObjAddr: 0x0, symBinAddr: 0xDC70, symSize: 0x78 }
+  - { offset: 0x2937B, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel setStreamHandler:completion:]', symObjAddr: 0x78, symBinAddr: 0xDCE8, symSize: 0xB4 }
+  - { offset: 0x2945A, size: 0x8, addend: 0x0, symName: '___57-[FLTThreadSafeEventChannel setStreamHandler:completion:]_block_invoke', symObjAddr: 0x12C, symBinAddr: 0xDD9C, symSize: 0x48 }
+  - { offset: 0x294C0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x174, symBinAddr: 0xDDE4, symSize: 0x3C }
+  - { offset: 0x294E6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x1B0, symBinAddr: 0xDE20, symSize: 0x30 }
+  - { offset: 0x29504, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel channel]', symObjAddr: 0x1E0, symBinAddr: 0xDE50, symSize: 0x8 }
+  - { offset: 0x29539, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel setChannel:]', symObjAddr: 0x1E8, symBinAddr: 0xDE58, symSize: 0xC }
+  - { offset: 0x29578, size: 0x8, addend: 0x0, symName: '-[FLTThreadSafeEventChannel .cxx_destruct]', symObjAddr: 0x1F4, symBinAddr: 0xDE64, symSize: 0xC }
+  - { offset: 0x296FB, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraLensDirectionBox initWithValue:]', symObjAddr: 0x0, symBinAddr: 0xDE70, symSize: 0x48 }
+  - { offset: 0x29709, size: 0x8, addend: 0x0, symName: _FCPGetMessagesCodec, symObjAddr: 0x188C, symBinAddr: 0xF6FC, symSize: 0x40 }
+  - { offset: 0x29731, size: 0x8, addend: 0x0, symName: _FCPGetMessagesCodec.sSharedObject, symObjAddr: 0x20718, symBinAddr: 0x284F0, symSize: 0x0 }
+  - { offset: 0x29748, size: 0x8, addend: 0x0, symName: _FCPGetMessagesCodec.sPred, symObjAddr: 0x20720, symBinAddr: 0x284F8, symSize: 0x0 }
+  - { offset: 0x29D7C, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraLensDirectionBox initWithValue:]', symObjAddr: 0x0, symBinAddr: 0xDE70, symSize: 0x48 }
+  - { offset: 0x29DC0, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraLensDirectionBox value]', symObjAddr: 0x48, symBinAddr: 0xDEB8, symSize: 0x8 }
+  - { offset: 0x29DF5, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraLensDirectionBox setValue:]', symObjAddr: 0x50, symBinAddr: 0xDEC0, symSize: 0x8 }
+  - { offset: 0x29E30, size: 0x8, addend: 0x0, symName: '-[FCPPlatformDeviceOrientationBox initWithValue:]', symObjAddr: 0x58, symBinAddr: 0xDEC8, symSize: 0x48 }
+  - { offset: 0x29E74, size: 0x8, addend: 0x0, symName: '-[FCPPlatformDeviceOrientationBox value]', symObjAddr: 0xA0, symBinAddr: 0xDF10, symSize: 0x8 }
+  - { offset: 0x29EA9, size: 0x8, addend: 0x0, symName: '-[FCPPlatformDeviceOrientationBox setValue:]', symObjAddr: 0xA8, symBinAddr: 0xDF18, symSize: 0x8 }
+  - { offset: 0x29EE4, size: 0x8, addend: 0x0, symName: '-[FCPPlatformExposureModeBox initWithValue:]', symObjAddr: 0xB0, symBinAddr: 0xDF20, symSize: 0x48 }
+  - { offset: 0x29F28, size: 0x8, addend: 0x0, symName: '-[FCPPlatformExposureModeBox value]', symObjAddr: 0xF8, symBinAddr: 0xDF68, symSize: 0x8 }
+  - { offset: 0x29F5D, size: 0x8, addend: 0x0, symName: '-[FCPPlatformExposureModeBox setValue:]', symObjAddr: 0x100, symBinAddr: 0xDF70, symSize: 0x8 }
+  - { offset: 0x29F98, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFlashModeBox initWithValue:]', symObjAddr: 0x108, symBinAddr: 0xDF78, symSize: 0x48 }
+  - { offset: 0x29FDC, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFlashModeBox value]', symObjAddr: 0x150, symBinAddr: 0xDFC0, symSize: 0x8 }
+  - { offset: 0x2A011, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFlashModeBox setValue:]', symObjAddr: 0x158, symBinAddr: 0xDFC8, symSize: 0x8 }
+  - { offset: 0x2A04C, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFocusModeBox initWithValue:]', symObjAddr: 0x160, symBinAddr: 0xDFD0, symSize: 0x48 }
+  - { offset: 0x2A090, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFocusModeBox value]', symObjAddr: 0x1A8, symBinAddr: 0xE018, symSize: 0x8 }
+  - { offset: 0x2A0C5, size: 0x8, addend: 0x0, symName: '-[FCPPlatformFocusModeBox setValue:]', symObjAddr: 0x1B0, symBinAddr: 0xE020, symSize: 0x8 }
+  - { offset: 0x2A100, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFileFormatBox initWithValue:]', symObjAddr: 0x1B8, symBinAddr: 0xE028, symSize: 0x48 }
+  - { offset: 0x2A144, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFileFormatBox value]', symObjAddr: 0x200, symBinAddr: 0xE070, symSize: 0x8 }
+  - { offset: 0x2A179, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFileFormatBox setValue:]', symObjAddr: 0x208, symBinAddr: 0xE078, symSize: 0x8 }
+  - { offset: 0x2A1B4, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFormatGroupBox initWithValue:]', symObjAddr: 0x210, symBinAddr: 0xE080, symSize: 0x48 }
+  - { offset: 0x2A1F8, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFormatGroupBox value]', symObjAddr: 0x258, symBinAddr: 0xE0C8, symSize: 0x8 }
+  - { offset: 0x2A22D, size: 0x8, addend: 0x0, symName: '-[FCPPlatformImageFormatGroupBox setValue:]', symObjAddr: 0x260, symBinAddr: 0xE0D0, symSize: 0x8 }
+  - { offset: 0x2A268, size: 0x8, addend: 0x0, symName: '-[FCPPlatformResolutionPresetBox initWithValue:]', symObjAddr: 0x268, symBinAddr: 0xE0D8, symSize: 0x48 }
+  - { offset: 0x2A2AC, size: 0x8, addend: 0x0, symName: '-[FCPPlatformResolutionPresetBox value]', symObjAddr: 0x2B0, symBinAddr: 0xE120, symSize: 0x8 }
+  - { offset: 0x2A2E1, size: 0x8, addend: 0x0, symName: '-[FCPPlatformResolutionPresetBox setValue:]', symObjAddr: 0x2B8, symBinAddr: 0xE128, symSize: 0x8 }
+  - { offset: 0x2A31C, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraDescription makeWithName:lensDirection:]', symObjAddr: 0x2C0, symBinAddr: 0xE130, symSize: 0x68 }
+  - { offset: 0x2A379, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraDescription fromList:]', symObjAddr: 0x328, symBinAddr: 0xE198, symSize: 0xB0 }
+  - { offset: 0x2A409, size: 0x8, addend: 0x0, symName: _GetNullableObjectAtIndex, symObjAddr: 0x3D8, symBinAddr: 0xE248, symSize: 0x70 }
+  - { offset: 0x2A450, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraDescription nullableFromList:]', symObjAddr: 0x448, symBinAddr: 0xE2B8, symSize: 0x30 }
+  - { offset: 0x2A48F, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription toList]', symObjAddr: 0x478, symBinAddr: 0xE2E8, symSize: 0xF8 }
+  - { offset: 0x2A4C4, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription name]', symObjAddr: 0x570, symBinAddr: 0xE3E0, symSize: 0x8 }
+  - { offset: 0x2A4F9, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription setName:]', symObjAddr: 0x578, symBinAddr: 0xE3E8, symSize: 0x8 }
+  - { offset: 0x2A538, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription lensDirection]', symObjAddr: 0x580, symBinAddr: 0xE3F0, symSize: 0x8 }
+  - { offset: 0x2A56D, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription setLensDirection:]', symObjAddr: 0x588, symBinAddr: 0xE3F8, symSize: 0x8 }
+  - { offset: 0x2A5A9, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraDescription .cxx_destruct]', symObjAddr: 0x590, symBinAddr: 0xE400, symSize: 0xC }
+  - { offset: 0x2A5D9, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraState makeWithPreviewSize:exposureMode:focusMode:exposurePointSupported:focusPointSupported:]', symObjAddr: 0x59C, symBinAddr: 0xE40C, symSize: 0xA0 }
+  - { offset: 0x2A663, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraState fromList:]', symObjAddr: 0x63C, symBinAddr: 0xE4AC, symSize: 0x148 }
+  - { offset: 0x2A74C, size: 0x8, addend: 0x0, symName: '+[FCPPlatformCameraState nullableFromList:]', symObjAddr: 0x784, symBinAddr: 0xE5F4, symSize: 0x30 }
+  - { offset: 0x2A78B, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState toList]', symObjAddr: 0x7B4, symBinAddr: 0xE624, symSize: 0x1A0 }
+  - { offset: 0x2A7C0, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState previewSize]', symObjAddr: 0x954, symBinAddr: 0xE7C4, symSize: 0x8 }
+  - { offset: 0x2A7F5, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState setPreviewSize:]', symObjAddr: 0x95C, symBinAddr: 0xE7CC, symSize: 0xC }
+  - { offset: 0x2A834, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState exposureMode]', symObjAddr: 0x968, symBinAddr: 0xE7D8, symSize: 0x8 }
+  - { offset: 0x2A869, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState setExposureMode:]', symObjAddr: 0x970, symBinAddr: 0xE7E0, symSize: 0x8 }
+  - { offset: 0x2A8A5, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState focusMode]', symObjAddr: 0x978, symBinAddr: 0xE7E8, symSize: 0x8 }
+  - { offset: 0x2A8DA, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState setFocusMode:]', symObjAddr: 0x980, symBinAddr: 0xE7F0, symSize: 0x8 }
+  - { offset: 0x2A916, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState exposurePointSupported]', symObjAddr: 0x988, symBinAddr: 0xE7F8, symSize: 0x8 }
+  - { offset: 0x2A94B, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState setExposurePointSupported:]', symObjAddr: 0x990, symBinAddr: 0xE800, symSize: 0x8 }
+  - { offset: 0x2A985, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState focusPointSupported]', symObjAddr: 0x998, symBinAddr: 0xE808, symSize: 0x8 }
+  - { offset: 0x2A9BA, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState setFocusPointSupported:]', symObjAddr: 0x9A0, symBinAddr: 0xE810, symSize: 0x8 }
+  - { offset: 0x2A9F4, size: 0x8, addend: 0x0, symName: '-[FCPPlatformCameraState .cxx_destruct]', symObjAddr: 0x9A8, symBinAddr: 0xE818, symSize: 0xC }
+  - { offset: 0x2AA24, size: 0x8, addend: 0x0, symName: '+[FCPPlatformMediaSettings makeWithResolutionPreset:framesPerSecond:videoBitrate:audioBitrate:enableAudio:]', symObjAddr: 0x9B4, symBinAddr: 0xE824, symSize: 0xC8 }
+  - { offset: 0x2AAAE, size: 0x8, addend: 0x0, symName: '+[FCPPlatformMediaSettings fromList:]', symObjAddr: 0xA7C, symBinAddr: 0xE8EC, symSize: 0x138 }
+  - { offset: 0x2AB88, size: 0x8, addend: 0x0, symName: '+[FCPPlatformMediaSettings nullableFromList:]', symObjAddr: 0xBB4, symBinAddr: 0xEA24, symSize: 0x30 }
+  - { offset: 0x2ABC7, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings toList]', symObjAddr: 0xBE4, symBinAddr: 0xEA54, symSize: 0x1E0 }
+  - { offset: 0x2ABFC, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings resolutionPreset]', symObjAddr: 0xDC4, symBinAddr: 0xEC34, symSize: 0x8 }
+  - { offset: 0x2AC31, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings setResolutionPreset:]', symObjAddr: 0xDCC, symBinAddr: 0xEC3C, symSize: 0x8 }
+  - { offset: 0x2AC6D, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings framesPerSecond]', symObjAddr: 0xDD4, symBinAddr: 0xEC44, symSize: 0x8 }
+  - { offset: 0x2ACA2, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings setFramesPerSecond:]', symObjAddr: 0xDDC, symBinAddr: 0xEC4C, symSize: 0xC }
+  - { offset: 0x2ACE1, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings videoBitrate]', symObjAddr: 0xDE8, symBinAddr: 0xEC58, symSize: 0x8 }
+  - { offset: 0x2AD16, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings setVideoBitrate:]', symObjAddr: 0xDF0, symBinAddr: 0xEC60, symSize: 0xC }
+  - { offset: 0x2AD55, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings audioBitrate]', symObjAddr: 0xDFC, symBinAddr: 0xEC6C, symSize: 0x8 }
+  - { offset: 0x2AD8A, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings setAudioBitrate:]', symObjAddr: 0xE04, symBinAddr: 0xEC74, symSize: 0xC }
+  - { offset: 0x2ADC9, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings enableAudio]', symObjAddr: 0xE10, symBinAddr: 0xEC80, symSize: 0x8 }
+  - { offset: 0x2ADFE, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings setEnableAudio:]', symObjAddr: 0xE18, symBinAddr: 0xEC88, symSize: 0x8 }
+  - { offset: 0x2AE38, size: 0x8, addend: 0x0, symName: '-[FCPPlatformMediaSettings .cxx_destruct]', symObjAddr: 0xE20, symBinAddr: 0xEC90, symSize: 0x3C }
+  - { offset: 0x2AE69, size: 0x8, addend: 0x0, symName: '+[FCPPlatformPoint makeWithX:y:]', symObjAddr: 0xE5C, symBinAddr: 0xECCC, symSize: 0x54 }
+  - { offset: 0x2AECE, size: 0x8, addend: 0x0, symName: '+[FCPPlatformPoint fromList:]', symObjAddr: 0xEB0, symBinAddr: 0xED20, symSize: 0xAC }
+  - { offset: 0x2AF54, size: 0x8, addend: 0x0, symName: '+[FCPPlatformPoint nullableFromList:]', symObjAddr: 0xF5C, symBinAddr: 0xEDCC, symSize: 0x30 }
+  - { offset: 0x2AF97, size: 0x8, addend: 0x0, symName: '-[FCPPlatformPoint toList]', symObjAddr: 0xF8C, symBinAddr: 0xEDFC, symSize: 0xD4 }
+  - { offset: 0x2AFCD, size: 0x8, addend: 0x0, symName: '-[FCPPlatformPoint x]', symObjAddr: 0x1060, symBinAddr: 0xEED0, symSize: 0x8 }
+  - { offset: 0x2B001, size: 0x8, addend: 0x0, symName: '-[FCPPlatformPoint setX:]', symObjAddr: 0x1068, symBinAddr: 0xEED8, symSize: 0x8 }
+  - { offset: 0x2B03E, size: 0x8, addend: 0x0, symName: '-[FCPPlatformPoint y]', symObjAddr: 0x1070, symBinAddr: 0xEEE0, symSize: 0x8 }
+  - { offset: 0x2B072, size: 0x8, addend: 0x0, symName: '-[FCPPlatformPoint setY:]', symObjAddr: 0x1078, symBinAddr: 0xEEE8, symSize: 0x8 }
+  - { offset: 0x2B0AF, size: 0x8, addend: 0x0, symName: '+[FCPPlatformSize makeWithWidth:height:]', symObjAddr: 0x1080, symBinAddr: 0xEEF0, symSize: 0x54 }
+  - { offset: 0x2B114, size: 0x8, addend: 0x0, symName: '+[FCPPlatformSize fromList:]', symObjAddr: 0x10D4, symBinAddr: 0xEF44, symSize: 0xAC }
+  - { offset: 0x2B19A, size: 0x8, addend: 0x0, symName: '+[FCPPlatformSize nullableFromList:]', symObjAddr: 0x1180, symBinAddr: 0xEFF0, symSize: 0x30 }
+  - { offset: 0x2B1DD, size: 0x8, addend: 0x0, symName: '-[FCPPlatformSize toList]', symObjAddr: 0x11B0, symBinAddr: 0xF020, symSize: 0xD4 }
+  - { offset: 0x2B213, size: 0x8, addend: 0x0, symName: '-[FCPPlatformSize width]', symObjAddr: 0x1284, symBinAddr: 0xF0F4, symSize: 0x8 }
+  - { offset: 0x2B247, size: 0x8, addend: 0x0, symName: '-[FCPPlatformSize setWidth:]', symObjAddr: 0x128C, symBinAddr: 0xF0FC, symSize: 0x8 }
+  - { offset: 0x2B284, size: 0x8, addend: 0x0, symName: '-[FCPPlatformSize height]', symObjAddr: 0x1294, symBinAddr: 0xF104, symSize: 0x8 }
+  - { offset: 0x2B2B8, size: 0x8, addend: 0x0, symName: '-[FCPPlatformSize setHeight:]', symObjAddr: 0x129C, symBinAddr: 0xF10C, symSize: 0x8 }
+  - { offset: 0x2B2F5, size: 0x8, addend: 0x0, symName: '-[FCPMessagesPigeonCodecReader readValueOfType:]', symObjAddr: 0x12A4, symBinAddr: 0xF114, symSize: 0x200 }
+  - { offset: 0x2B434, size: 0x8, addend: 0x0, symName: '-[FCPMessagesPigeonCodecWriter writeValue:]', symObjAddr: 0x14A4, symBinAddr: 0xF314, symSize: 0x350 }
+  - { offset: 0x2B54F, size: 0x8, addend: 0x0, symName: '-[FCPMessagesPigeonCodecReaderWriter writerWithData:]', symObjAddr: 0x17F4, symBinAddr: 0xF664, symSize: 0x4C }
+  - { offset: 0x2B592, size: 0x8, addend: 0x0, symName: '-[FCPMessagesPigeonCodecReaderWriter readerWithData:]', symObjAddr: 0x1840, symBinAddr: 0xF6B0, symSize: 0x4C }
+  - { offset: 0x2B61A, size: 0x8, addend: 0x0, symName: ___FCPGetMessagesCodec_block_invoke, symObjAddr: 0x18CC, symBinAddr: 0xF73C, symSize: 0x5C }
+  - { offset: 0x2B662, size: 0x8, addend: 0x0, symName: _SetUpFCPCameraApi, symObjAddr: 0x1928, symBinAddr: 0xF798, symSize: 0xC }
+  - { offset: 0x2B6B5, size: 0x8, addend: 0x0, symName: _SetUpFCPCameraApiWithSuffix, symObjAddr: 0x1934, symBinAddr: 0xF7A4, symSize: 0x181C }
+  - { offset: 0x2BC28, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke, symObjAddr: 0x3150, symBinAddr: 0x10FC0, symSize: 0x84 }
+  - { offset: 0x2BC84, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_2, symObjAddr: 0x31D4, symBinAddr: 0x11044, symSize: 0x48 }
+  - { offset: 0x2BD18, size: 0x8, addend: 0x0, symName: _wrapResult, symObjAddr: 0x321C, symBinAddr: 0x1108C, symSize: 0x1EC }
+  - { offset: 0x2BD51, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke.181, symObjAddr: 0x3428, symBinAddr: 0x11278, symSize: 0xF8 }
+  - { offset: 0x2BE1A, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_2.182, symObjAddr: 0x3520, symBinAddr: 0x11370, symSize: 0x48 }
+  - { offset: 0x2BEAE, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke.186, symObjAddr: 0x3568, symBinAddr: 0x113B8, symSize: 0x10C }
+  - { offset: 0x2BF88, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_2.187, symObjAddr: 0x3674, symBinAddr: 0x114C4, symSize: 0x44 }
+  - { offset: 0x2C009, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke.191, symObjAddr: 0x36B8, symBinAddr: 0x11508, symSize: 0x84 }
+  - { offset: 0x2C065, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_2.192, symObjAddr: 0x373C, symBinAddr: 0x1158C, symSize: 0x44 }
+  - { offset: 0x2C0E6, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_3, symObjAddr: 0x3780, symBinAddr: 0x115D0, symSize: 0x84 }
+  - { offset: 0x2C142, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_4, symObjAddr: 0x3804, symBinAddr: 0x11654, symSize: 0x44 }
+  - { offset: 0x2C1C3, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_5, symObjAddr: 0x3848, symBinAddr: 0x11698, symSize: 0x84 }
+  - { offset: 0x2C21F, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_6, symObjAddr: 0x38CC, symBinAddr: 0x1171C, symSize: 0x44 }
+  - { offset: 0x2C2A0, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_7, symObjAddr: 0x3910, symBinAddr: 0x11760, symSize: 0xC4 }
+  - { offset: 0x2C349, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_8, symObjAddr: 0x39D4, symBinAddr: 0x11824, symSize: 0x44 }
+  - { offset: 0x2C3CA, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_9, symObjAddr: 0x3A18, symBinAddr: 0x11868, symSize: 0xC4 }
+  - { offset: 0x2C484, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_10, symObjAddr: 0x3ADC, symBinAddr: 0x1192C, symSize: 0x44 }
+  - { offset: 0x2C505, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_11, symObjAddr: 0x3B20, symBinAddr: 0x11970, symSize: 0x84 }
+  - { offset: 0x2C561, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_12, symObjAddr: 0x3BA4, symBinAddr: 0x119F4, symSize: 0x44 }
+  - { offset: 0x2C5E2, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_13, symObjAddr: 0x3BE8, symBinAddr: 0x11A38, symSize: 0x84 }
+  - { offset: 0x2C63E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_14, symObjAddr: 0x3C6C, symBinAddr: 0x11ABC, symSize: 0x48 }
+  - { offset: 0x2C6D2, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke.208, symObjAddr: 0x3CB4, symBinAddr: 0x11B04, symSize: 0x84 }
+  - { offset: 0x2C72E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_2.209, symObjAddr: 0x3D38, symBinAddr: 0x11B88, symSize: 0x44 }
+  - { offset: 0x2C7AF, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_3.212, symObjAddr: 0x3D7C, symBinAddr: 0x11BCC, symSize: 0xC4 }
+  - { offset: 0x2C854, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_4.213, symObjAddr: 0x3E40, symBinAddr: 0x11C90, symSize: 0x44 }
+  - { offset: 0x2C8D5, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_5.216, symObjAddr: 0x3E84, symBinAddr: 0x11CD4, symSize: 0x84 }
+  - { offset: 0x2C931, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_6.217, symObjAddr: 0x3F08, symBinAddr: 0x11D58, symSize: 0x48 }
+  - { offset: 0x2C9C5, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_7.220, symObjAddr: 0x3F50, symBinAddr: 0x11DA0, symSize: 0x84 }
+  - { offset: 0x2CA21, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_8.221, symObjAddr: 0x3FD4, symBinAddr: 0x11E24, symSize: 0x44 }
+  - { offset: 0x2CAA2, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_9.224, symObjAddr: 0x4018, symBinAddr: 0x11E68, symSize: 0x84 }
+  - { offset: 0x2CAFE, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_10.225, symObjAddr: 0x409C, symBinAddr: 0x11EEC, symSize: 0x44 }
+  - { offset: 0x2CB7F, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_11.228, symObjAddr: 0x40E0, symBinAddr: 0x11F30, symSize: 0xC4 }
+  - { offset: 0x2CC39, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_12.229, symObjAddr: 0x41A4, symBinAddr: 0x11FF4, symSize: 0x44 }
+  - { offset: 0x2CCBA, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_13.232, symObjAddr: 0x41E8, symBinAddr: 0x12038, symSize: 0xC4 }
+  - { offset: 0x2CD74, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_14.233, symObjAddr: 0x42AC, symBinAddr: 0x120FC, symSize: 0x44 }
+  - { offset: 0x2CDF5, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_15, symObjAddr: 0x42F0, symBinAddr: 0x12140, symSize: 0xBC }
+  - { offset: 0x2CE9E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_16, symObjAddr: 0x43AC, symBinAddr: 0x121FC, symSize: 0x44 }
+  - { offset: 0x2CF1F, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_17, symObjAddr: 0x43F0, symBinAddr: 0x12240, symSize: 0x84 }
+  - { offset: 0x2CF7B, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_18, symObjAddr: 0x4474, symBinAddr: 0x122C4, symSize: 0x48 }
+  - { offset: 0x2D00F, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_19, symObjAddr: 0x44BC, symBinAddr: 0x1230C, symSize: 0x84 }
+  - { offset: 0x2D06B, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_20, symObjAddr: 0x4540, symBinAddr: 0x12390, symSize: 0x48 }
+  - { offset: 0x2D0FF, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_21, symObjAddr: 0x4588, symBinAddr: 0x123D8, symSize: 0xCC }
+  - { offset: 0x2D1A8, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_22, symObjAddr: 0x4654, symBinAddr: 0x124A4, symSize: 0x44 }
+  - { offset: 0x2D229, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_23, symObjAddr: 0x4698, symBinAddr: 0x124E8, symSize: 0xC4 }
+  - { offset: 0x2D2E3, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_24, symObjAddr: 0x475C, symBinAddr: 0x125AC, symSize: 0x44 }
+  - { offset: 0x2D364, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_25, symObjAddr: 0x47A0, symBinAddr: 0x125F0, symSize: 0xBC }
+  - { offset: 0x2D40D, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_26, symObjAddr: 0x485C, symBinAddr: 0x126AC, symSize: 0x44 }
+  - { offset: 0x2D48E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_27, symObjAddr: 0x48A0, symBinAddr: 0x126F0, symSize: 0x84 }
+  - { offset: 0x2D4EA, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_28, symObjAddr: 0x4924, symBinAddr: 0x12774, symSize: 0x48 }
+  - { offset: 0x2D57E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_29, symObjAddr: 0x496C, symBinAddr: 0x127BC, symSize: 0x84 }
+  - { offset: 0x2D5DA, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_30, symObjAddr: 0x49F0, symBinAddr: 0x12840, symSize: 0x48 }
+  - { offset: 0x2D66E, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_31, symObjAddr: 0x4A38, symBinAddr: 0x12888, symSize: 0xCC }
+  - { offset: 0x2D717, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_32, symObjAddr: 0x4B04, symBinAddr: 0x12954, symSize: 0x44 }
+  - { offset: 0x2D798, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_33, symObjAddr: 0x4B48, symBinAddr: 0x12998, symSize: 0x84 }
+  - { offset: 0x2D7F4, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_34, symObjAddr: 0x4BCC, symBinAddr: 0x12A1C, symSize: 0x44 }
+  - { offset: 0x2D875, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_35, symObjAddr: 0x4C10, symBinAddr: 0x12A60, symSize: 0x84 }
+  - { offset: 0x2D8D1, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_36, symObjAddr: 0x4C94, symBinAddr: 0x12AE4, symSize: 0x44 }
+  - { offset: 0x2D952, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_37, symObjAddr: 0x4CD8, symBinAddr: 0x12B28, symSize: 0xBC }
+  - { offset: 0x2D9FB, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_38, symObjAddr: 0x4D94, symBinAddr: 0x12BE4, symSize: 0x44 }
+  - { offset: 0x2DA7C, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_39, symObjAddr: 0x4DD8, symBinAddr: 0x12C28, symSize: 0xC4 }
+  - { offset: 0x2DB36, size: 0x8, addend: 0x0, symName: ___SetUpFCPCameraApiWithSuffix_block_invoke_40, symObjAddr: 0x4E9C, symBinAddr: 0x12CEC, symSize: 0x44 }
+  - { offset: 0x2DBB7, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi initWithBinaryMessenger:]', symObjAddr: 0x4EE0, symBinAddr: 0x12D30, symSize: 0xC }
+  - { offset: 0x2DBFC, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi initWithBinaryMessenger:messageChannelSuffix:]', symObjAddr: 0x4EEC, symBinAddr: 0x12D3C, symSize: 0xD0 }
+  - { offset: 0x2DC54, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi deviceOrientationChangedOrientation:completion:]', symObjAddr: 0x4FBC, symBinAddr: 0x12E0C, symSize: 0x1D0 }
+  - { offset: 0x2DCD7, size: 0x8, addend: 0x0, symName: '___74-[FCPCameraGlobalEventApi deviceOrientationChangedOrientation:completion:]_block_invoke', symObjAddr: 0x518C, symBinAddr: 0x12FDC, symSize: 0x134 }
+  - { offset: 0x2DD8B, size: 0x8, addend: 0x0, symName: _createConnectionError, symObjAddr: 0x52C0, symBinAddr: 0x13110, symSize: 0x98 }
+  - { offset: 0x2DDB5, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi binaryMessenger]', symObjAddr: 0x53B4, symBinAddr: 0x131A8, symSize: 0x8 }
+  - { offset: 0x2DDEB, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi setBinaryMessenger:]', symObjAddr: 0x53BC, symBinAddr: 0x131B0, symSize: 0xC }
+  - { offset: 0x2DE2B, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi messageChannelSuffix]', symObjAddr: 0x53C8, symBinAddr: 0x131BC, symSize: 0x8 }
+  - { offset: 0x2DE61, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi setMessageChannelSuffix:]', symObjAddr: 0x53D0, symBinAddr: 0x131C4, symSize: 0xC }
+  - { offset: 0x2DEA1, size: 0x8, addend: 0x0, symName: '-[FCPCameraGlobalEventApi .cxx_destruct]', symObjAddr: 0x53DC, symBinAddr: 0x131D0, symSize: 0x30 }
+  - { offset: 0x2DED3, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi initWithBinaryMessenger:]', symObjAddr: 0x540C, symBinAddr: 0x13200, symSize: 0xC }
+  - { offset: 0x2DF18, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi initWithBinaryMessenger:messageChannelSuffix:]', symObjAddr: 0x5418, symBinAddr: 0x1320C, symSize: 0xD0 }
+  - { offset: 0x2DF70, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi initializedWithState:completion:]', symObjAddr: 0x54E8, symBinAddr: 0x132DC, symSize: 0x1E8 }
+  - { offset: 0x2DFF3, size: 0x8, addend: 0x0, symName: '___53-[FCPCameraEventApi initializedWithState:completion:]_block_invoke', symObjAddr: 0x56D0, symBinAddr: 0x134C4, symSize: 0x134 }
+  - { offset: 0x2E0A7, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi reportError:completion:]', symObjAddr: 0x5804, symBinAddr: 0x135F8, symSize: 0x1E8 }
+  - { offset: 0x2E12A, size: 0x8, addend: 0x0, symName: '___44-[FCPCameraEventApi reportError:completion:]_block_invoke', symObjAddr: 0x59EC, symBinAddr: 0x137E0, symSize: 0x134 }
+  - { offset: 0x2E1DE, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi binaryMessenger]', symObjAddr: 0x5B20, symBinAddr: 0x13914, symSize: 0x8 }
+  - { offset: 0x2E214, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi setBinaryMessenger:]', symObjAddr: 0x5B28, symBinAddr: 0x1391C, symSize: 0xC }
+  - { offset: 0x2E254, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi messageChannelSuffix]', symObjAddr: 0x5B34, symBinAddr: 0x13928, symSize: 0x8 }
+  - { offset: 0x2E28A, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi setMessageChannelSuffix:]', symObjAddr: 0x5B3C, symBinAddr: 0x13930, symSize: 0xC }
+  - { offset: 0x2E2CA, size: 0x8, addend: 0x0, symName: '-[FCPCameraEventApi .cxx_destruct]', symObjAddr: 0x5B48, symBinAddr: 0x1393C, symSize: 0x30 }
+  - { offset: 0x2FE7F, size: 0x8, addend: 0x0, symName: _FLTEnsureToRunOnMainQueue, symObjAddr: 0x0, symBinAddr: 0x1396C, symSize: 0x58 }
+  - { offset: 0x2FEA6, size: 0x8, addend: 0x0, symName: _FLTCaptureSessionQueueSpecific, symObjAddr: 0x70, symBinAddr: 0x284E8, symSize: 0x0 }
+  - { offset: 0x2FEBA, size: 0x8, addend: 0x0, symName: _FLTEnsureToRunOnMainQueue, symObjAddr: 0x0, symBinAddr: 0x1396C, symSize: 0x58 }
+...

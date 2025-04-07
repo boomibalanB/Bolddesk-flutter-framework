@@ -1,0 +1,52 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammedismailsameer/Documents/Bolddesk/bolddesk-mobile-app/syncfusion-bolddesk-mobile-app/flutter_framework_output/Release/iphoneos/Release-iphoneos/gallery_saver_plus/gallery_saver_plus.framework/gallery_saver_plus'
+relocations:
+  - { offset: 0x7B873, size: 0x8, addend: 0x0, symName: _gallery_saver_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x8AC0, symSize: 0x0 }
+  - { offset: 0x7B8A8, size: 0x8, addend: 0x0, symName: _gallery_saver_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x8AF0, symSize: 0x0 }
+  - { offset: 0x7B8E5, size: 0x8, addend: 0x0, symName: '+[GallerySaverPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC }
+  - { offset: 0x7B8F3, size: 0x8, addend: 0x0, symName: '+[GallerySaverPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC }
+  - { offset: 0x7BD47, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCMa', symObjAddr: 0xFC, symBinAddr: 0x4108, symSize: 0x20 }
+  - { offset: 0x7BD66, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x3F4, symBinAddr: 0x4400, symSize: 0x40 }
+  - { offset: 0x7BD7A, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x434, symBinAddr: 0x4440, symSize: 0x40 }
+  - { offset: 0x7BD8E, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TR', symObjAddr: 0x4F0, symBinAddr: 0x44FC, symSize: 0xE0 }
+  - { offset: 0x7BDB9, size: 0x8, addend: 0x0, symName: '_$sSo21PHAuthorizationStatusVIegy_ABIeyBy_TR', symObjAddr: 0xBC0, symBinAddr: 0x4BCC, symSize: 0x3C }
+  - { offset: 0x7BDD1, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0xCB8, symBinAddr: 0x4CC4, symSize: 0x2C }
+  - { offset: 0x7BDE9, size: 0x8, addend: 0x0, symName: '_$sSbs5Error_pSgIegyg_SbSo7NSErrorCSgIeyByy_TR', symObjAddr: 0xCE4, symBinAddr: 0x4CF0, symSize: 0x64 }
+  - { offset: 0x7BE01, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCfETo', symObjAddr: 0x109C, symBinAddr: 0x50A8, symSize: 0x40 }
+  - { offset: 0x7BE3B, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x1104, symBinAddr: 0x5110, symSize: 0x64 }
+  - { offset: 0x7BE73, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x1168, symBinAddr: 0x5174, symSize: 0xE0 }
+  - { offset: 0x7BF17, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x1FD4, symBinAddr: 0x5FE0, symSize: 0x48 }
+  - { offset: 0x7BF2B, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x201C, symBinAddr: 0x6028, symSize: 0x24 }
+  - { offset: 0x7BF3F, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x2040, symBinAddr: 0x604C, symSize: 0x20 }
+  - { offset: 0x7BF53, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TRTA', symObjAddr: 0x2084, symBinAddr: 0x6090, symSize: 0x8 }
+  - { offset: 0x7BF67, size: 0x8, addend: 0x0, symName: '_$sypSgWOb', symObjAddr: 0x208C, symBinAddr: 0x6098, symSize: 0x48 }
+  - { offset: 0x7BF7B, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x20D4, symBinAddr: 0x60E0, symSize: 0x10 }
+  - { offset: 0x7BF8F, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x20F4, symBinAddr: 0x6100, symSize: 0x10 }
+  - { offset: 0x7BFA3, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x2104, symBinAddr: 0x6110, symSize: 0x8 }
+  - { offset: 0x7BFB7, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0x210C, symBinAddr: 0x6118, symSize: 0x3C }
+  - { offset: 0x7BFCB, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFyycfU_TA', symObjAddr: 0x2174, symBinAddr: 0x617C, symSize: 0x70 }
+  - { offset: 0x7BFFF, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_TA', symObjAddr: 0x2208, symBinAddr: 0x6210, symSize: 0xC }
+  - { offset: 0x7C013, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_yyScMYccfU_TA', symObjAddr: 0x2240, symBinAddr: 0x6248, symSize: 0x28 }
+  - { offset: 0x7C04F, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x22A8, symBinAddr: 0x62B0, symSize: 0x54 }
+  - { offset: 0x7C063, size: 0x8, addend: 0x0, symName: '_$sS2Ss7CVarArg10FoundationWl', symObjAddr: 0x22FC, symBinAddr: 0x6304, symSize: 0x44 }
+  - { offset: 0x7C098, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFyycfU_TA', symObjAddr: 0x23B4, symBinAddr: 0x63BC, symSize: 0x1F0 }
+  - { offset: 0x7C194, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFySb_s5Error_pSgtcfU0_TA', symObjAddr: 0x25A4, symBinAddr: 0x65AC, symSize: 0x58 }
+  - { offset: 0x7C3F7, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x400C, symSize: 0xDC }
+  - { offset: 0x7C479, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfC', symObjAddr: 0xDC, symBinAddr: 0x40E8, symSize: 0x20 }
+  - { offset: 0x7C49A, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8register4withySo07FlutterG9Registrar_p_tFZTo', symObjAddr: 0x11C, symBinAddr: 0x4128, symSize: 0xF0 }
+  - { offset: 0x7C536, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x20C, symBinAddr: 0x4218, symSize: 0x1E8 }
+  - { offset: 0x7C5DC, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x474, symBinAddr: 0x4480, symSize: 0x7C }
+  - { offset: 0x7C686, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctF', symObjAddr: 0x5D0, symBinAddr: 0x45DC, symSize: 0x450 }
+  - { offset: 0x7C837, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctFySo21PHAuthorizationStatusVcfU_', symObjAddr: 0xA20, symBinAddr: 0x4A2C, symSize: 0x1A0 }
+  - { offset: 0x7C947, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC17_saveMediaToAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA0I4TypeOSSSgyypSgctFys5Error_pSgcfU_', symObjAddr: 0xBFC, symBinAddr: 0x4C08, symSize: 0xBC }
+  - { offset: 0x7CA2F, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFySb_AItcfU0_', symObjAddr: 0xD48, symBinAddr: 0x4D54, symSize: 0x230 }
+  - { offset: 0x7CA9A, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfc', symObjAddr: 0xF78, symBinAddr: 0x4F84, symSize: 0x74 }
+  - { offset: 0x7CACD, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCACycfcTo', symObjAddr: 0xFEC, symBinAddr: 0x4FF8, symSize: 0x80 }
+  - { offset: 0x7CB02, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginCfD', symObjAddr: 0x106C, symBinAddr: 0x5078, symSize: 0x30 }
+  - { offset: 0x7CC24, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC28fetchAssetCollectionForAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LLySo07PHAssetJ0CSgSSFTf4nd_n', symObjAddr: 0x1248, symBinAddr: 0x5254, symSize: 0x184 }
+  - { offset: 0x7CCF5, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC8saveFile33_72D85CA0DC5FA55B667D4CD92DEB83C8LLyySS_AA9MediaTypeOSo17PHAssetCollectionCSgyypSgctFTf4nnnnd_n', symObjAddr: 0x13CC, symBinAddr: 0x53D8, symSize: 0x240 }
+  - { offset: 0x7CD61, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC20createAppPhotosAlbum33_72D85CA0DC5FA55B667D4CD92DEB83C8LL9albumName10completionySS_ys5Error_pSgctFTf4nnd_n', symObjAddr: 0x160C, symBinAddr: 0x5618, symSize: 0x174 }
+  - { offset: 0x7CD96, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC9saveMediayySo17FlutterMethodCallC_AA0I4TypeOyypSgctF015$syXlSgIeyBy_ypP7Iegn_TRyXlSgIeyBy_Tf1nncn_nTf4nnng_n', symObjAddr: 0x1780, symBinAddr: 0x578C, symSize: 0x56C }
+  - { offset: 0x7CF54, size: 0x8, addend: 0x0, symName: '_$s18gallery_saver_plus23SwiftGallerySaverPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypO7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x1CEC, symBinAddr: 0x5CF8, symSize: 0x2E8 }
+...
